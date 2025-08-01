@@ -1,240 +1,710 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on MapLibre</title><link>https://maplibre.org/news/</link><description>Recent content in News on MapLibre</description><generator>Hugo</generator><language>en-us</language><copyright>CC0</copyright><atom:link href="https://maplibre.org/news/index.xml" rel="self" type="application/rss+xml"/><item><title>Team update and our ongoing commitment to the community</title><link>https://maplibre.org/news/2024-11-12-team-updates/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-11-12-team-updates/</guid><description>&lt;p>We’d like to share a recent update regarding our &lt;a href="https://maplibre.org/about/">team&lt;/a> at MapLibre. Meena, who has been our Head of Marketing and Fundraising, has transitioned out of her role. We’re grateful for her efforts in fostering connections within our community and with our sponsors. We wish her well in her future endeavors.&lt;/p></description></item><item><title>MapLibre Newsletter October 2024</title><link>https://maplibre.org/news/2024-10-30-maplibre-newsletter-october-2024/</link><pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-10-30-maplibre-newsletter-october-2024/</guid><description>&lt;h1 id="maplibre-newsletter---october-2024">MapLibre Newsletter - October 2024 &lt;a class="heading-link" href="#maplibre-newsletter---october-2024">&lt;/a>&lt;/h1>
-&lt;p>We’re delighted to begin the October newsletter with a gracious and hearty Thank You to Meta for their unwavering support as a sponsor of MapLibre in 2024! We look forward to what is to come.&lt;/p></description></item><item><title>Oliver Wipfli leaving the MapLibre Team</title><link>https://maplibre.org/news/2024-10-11-farewell-oliver/</link><pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-10-11-farewell-oliver/</guid><description>&lt;p>&lt;a href="https://maplibre.org/news/2022-10-07-oliver-coordinator/">Two years ago&lt;/a>, MapLibre announced that Oliver would become the first person to work on the MapLibre team in the capacity of coordinator. Oliver has been involved with the project before that, being the reviewer of the now legendary &lt;a href="https://github.com/maplibre/maplibre-gl-js/pull/209">TypeScript migration PR&lt;/a> for MapLibre GL JS, one of the first major milestones after the fork.&lt;/p></description></item><item><title>New People Joining the Maplibre Team</title><link>https://maplibre.org/news/2024-10-04-new-team-members/</link><pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-10-04-new-team-members/</guid><description>&lt;p>Three new people have joined the MapLibre Team. Please give them a warm welcome!&lt;/p>
-&lt;p>&lt;a href="https://maplibre.org/about/isaac/">Isaac Besora&lt;/a> has joined MapLibre as Graphics Engineer. His initial focus will be improvements in MapLibre GL JS in particular in the areas of Terrain 3D and the new Globe feature. Isaac brings expertise in graphics programming into the MapLibre Organization which is a central skill to what we are doing.&lt;/p></description></item><item><title>MapLibre Newsletter September 2024</title><link>https://maplibre.org/news/2024-09-30-maplibre-newsletter-september-2024/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-09-30-maplibre-newsletter-september-2024/</guid><description>&lt;h1 id="maplibre-newsletter---september-2024">MapLibre Newsletter - September 2024 &lt;a class="heading-link" href="#maplibre-newsletter---september-2024">&lt;/a>&lt;/h1>
-&lt;p>We’re delighted to begin the September newsletter with a heartfelt THANK YOU to Microsoft for their unwavering support as a sponsor of MapLibre in 2024!&lt;/p></description></item><item><title>MapLibre Newsletter August 2024</title><link>https://maplibre.org/news/2024-09-02-maplibre-newsletter-august-2024/</link><pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-09-02-maplibre-newsletter-august-2024/</guid><description>&lt;h1 id="maplibre-newsletter---august-2024">MapLibre Newsletter - August 2024 &lt;a class="heading-link" href="#maplibre-newsletter---august-2024">&lt;/a>&lt;/h1>
-&lt;p>We are glad to open the August newsletter with a cordial THANK YOU to &lt;a href="https://radar.com">Radar&lt;/a> for continuing to sponsor MapLibre in 2024!&lt;/p>
-&lt;a href="https://www.radar.com/">
-&lt;img src="maplibre-radar-logo.svg" width="100%"/>
-&lt;/a>
-&lt;br />
-&lt;br />
-
-&lt;h2 id="maplibre-governing-board-election">MapLibre Governing Board Election &lt;a class="heading-link" href="#maplibre-governing-board-election">&lt;/a>&lt;/h2>
-&lt;p>At the end of August, the MapLibre Governing Board election 2024 took place. The following people have been elected:&lt;/p></description></item><item><title>Governing Board Election 2024</title><link>https://maplibre.org/news/2024-08-30-governing-board-election-2024/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-08-30-governing-board-election-2024/</guid><description>&lt;p>The MapLibre Governing Board members serve for a one year term and at the end of August we hold the Board election with representatives of the community, the MapLibre Voting Members. Yesterday, on Thursday, Aug 29th, 2024, the election poll closed and the following people were elected to the Board:&lt;/p></description></item><item><title>MapLibre Newsletter July 2024</title><link>https://maplibre.org/news/2024-07-31-maplibre-newsletter-july-2024/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-07-31-maplibre-newsletter-july-2024/</guid><description>&lt;h1 id="maplibre-newsletter---july-2024">MapLibre Newsletter - July 2024 &lt;a class="heading-link" href="#maplibre-newsletter---july-2024">&lt;/a>&lt;/h1>
-&lt;p>&lt;a href="https://www.jawg.io/en/">Jawg Maps&lt;/a> continues to support MapLibre in 2024 - Thank You!&lt;/p>
-&lt;a href="https://www.jawg.io/en/">
-&lt;img src="maplibre-jawg-logo.svg" width="100%"/>
-&lt;/a>
-&lt;br />
-&lt;br />
-
-&lt;h2 id="maplibre-governing-board-election">MapLibre Governing Board Election &lt;a class="heading-link" href="#maplibre-governing-board-election">&lt;/a>&lt;/h2>
-&lt;p>The &lt;a href="https://github.com/maplibre/maplibre/issues/374">MapLibre Governing Board 2024&lt;/a> election will take place on Thursday, August 29th, 2024. The Governing Board consists of 5 members which get elected by the MapLibre Voting Members. The primary role of the Board is to set the long-term strategy of MapLibre, overview MapLibre&amp;rsquo;s finances, communicate with sponsors, and oversee MapLibre&amp;rsquo;s team members. Under normal circumstances, the Governing Board does not engage in technical decisions in the MapLibre codebases. However, should there be an otherwise unresolvable conflict, the Board will have the last word and serves as a last instance in case of a dispute. The Governing Board has quarterly internal meetings as well as quarterly meetings with sponsors.&lt;/p></description></item><item><title>MapLibre Newsletter June 2024</title><link>https://maplibre.org/news/2024-06-30-maplibre-newsletter-june-2024/</link><pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-06-30-maplibre-newsletter-june-2024/</guid><description>&lt;h1 id="maplibre-newsletter---june-2024">MapLibre Newsletter - June 2024 &lt;a class="heading-link" href="#maplibre-newsletter---june-2024">&lt;/a>&lt;/h1>
-&lt;p>We would like to open the June newsletter by thanking &lt;a href="https://komoot.com/">komoot&lt;/a> for their continued support as a member of the MapLibre Sponsorship Program!&lt;/p>
-&lt;a href="https://komoot.com/">
-&lt;img src="maplibre-komoot-logo.svg" width="100%"/>
-&lt;/a>
-&lt;br />
-&lt;br />
-&lt;p>In June 2024, we were also happy to welcome &lt;a href="https://mapme.com">Mapme&lt;/a> as a new Silver tier sponsor, see &lt;a href="https://maplibre.org/news/2024-06-28-mapme-announcement/">announcement&lt;/a>.&lt;/p></description></item><item><title>Mapme joins the MapLibre Sponsorship Program</title><link>https://maplibre.org/news/2024-06-28-mapme-announcement/</link><pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-06-28-mapme-announcement/</guid><description>&lt;p>Mapme joins the MapLibre Sponsorship Program as a Silver Sponsor.&lt;/p>
-&lt;a href="https://mapme.com/">
-&lt;img src="maplibre-mapme-logo.png" width="100%"/>
-&lt;/a>
-&lt;br />
-&lt;br />
-&lt;p>The Silver tier &lt;a href="https://opencollective.com/maplibre/contributions/771444">donation&lt;/a> of USD 10,000 will be used for general maintenance of the MapLibre codebases and project coordination.&lt;/p></description></item><item><title>MapLibre Newsletter May 2024</title><link>https://maplibre.org/news/2024-05-31-maplibre-newsletter-may-2024/</link><pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-05-31-maplibre-newsletter-may-2024/</guid><description>&lt;h1 id="maplibre-newsletter---may-2024">MapLibre Newsletter - May 2024 &lt;a class="heading-link" href="#maplibre-newsletter---may-2024">&lt;/a>&lt;/h1>
-&lt;p>&lt;a href="https://www.mierune.co.jp/">Mierune&lt;/a>, our first-ever sponsor, has made a donation again to support MapLibre in 2024 for the third year in a row. Thank you so much Mierune!&lt;/p></description></item><item><title>MapLibre Newsletter April 2024</title><link>https://maplibre.org/news/2024-04-30-maplibre-newsletter-april-2024/</link><pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-04-30-maplibre-newsletter-april-2024/</guid><description>&lt;h1 id="maplibre-newsletter---april-2024">MapLibre Newsletter - April 2024 &lt;a class="heading-link" href="#maplibre-newsletter---april-2024">&lt;/a>&lt;/h1>
-&lt;p>At the end of March, we were happy to announce that Mappedin, a global leader in indoor mapping and spatial data management, joined the MapLibre Sponsorship Program. Let us give a warm welcome to our latest sponsor Mappedin!&lt;/p></description></item><item><title>Mappedin joins the MapLibre Sponsorship Program</title><link>https://maplibre.org/news/2024-03-26-mappedin-announcement/</link><pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-03-26-mappedin-announcement/</guid><description>&lt;p>Mappedin joins the MapLibre Sponsorship Program at the Silver tier.&lt;/p>
-&lt;img src="maplibre-mappedin-logo.png" width="100%"/>
-&lt;br />
-&lt;br />
-&lt;p>With a yearly &lt;a href="https://opencollective.com/maplibre/contributions/746466">donation&lt;/a> of USD $10,000, Mappedin supports the maintenance of MapLibre’s codebases and ensures a stable future for the project.&lt;/p></description></item><item><title>MapLibre Newsletter March 2024</title><link>https://maplibre.org/news/2024-03-25-maplibre-newsletter-march-2024/</link><pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-03-25-maplibre-newsletter-march-2024/</guid><description>&lt;h1 id="maplibre-newsletter---march-2024">MapLibre Newsletter - March 2024 &lt;a class="heading-link" href="#maplibre-newsletter---march-2024">&lt;/a>&lt;/h1>
-&lt;p>In March 2024, we onboarded &lt;a href="https://github.com/maplibre/maplibre-gl-inspect">maplibre-gl-inspect&lt;/a> into the MapLibre GitHub organization. MapLibre GL Inspect is a small plugin for MapLibre GL JS that allows you to inspect the contents of vector tiles including the attributes of vector tile features. Special thanks to &lt;a href="https://github.com/acalcutt">Andrew Calcutt&lt;/a> who maintained this plugin over the last years and made sure it works with MapLibre GL JS.&lt;/p></description></item><item><title>MapLibre Newsletter February 2024</title><link>https://maplibre.org/news/2024-02-29-maplibre-newsletter-february-2024/</link><pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-02-29-maplibre-newsletter-february-2024/</guid><description>&lt;h1 id="maplibre-newsletter---february-2024">MapLibre Newsletter - February 2024 &lt;a class="heading-link" href="#maplibre-newsletter---february-2024">&lt;/a>&lt;/h1>
-&lt;p>In February 2024, we were happy to &lt;a href="https://maplibre.org/news/2024-02-20-msft-announcement/">announce&lt;/a> that Microsoft has joined the MapLibre Sponsorship Program. With Amazon, Meta, and Microsoft we now have three companies that have a seat in the MapLibre Advisory Council which meets with members of the MapLibre Governing Board on a quarterly basis.&lt;/p></description></item><item><title>Microsoft joins the MapLibre Sponsorship Program</title><link>https://maplibre.org/news/2024-02-20-msft-announcement/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-02-20-msft-announcement/</guid><description>&lt;p>Microsoft joins the MapLibre Sponsorship Program as a Silver Sponsor.&lt;/p>
-&lt;img src="maplibre-msft-logo.png" width="100%"/>
-&lt;br />
-&lt;br />
-&lt;p>The Silver tier &lt;a href="https://opencollective.com/maplibre/contributions/733415">donation&lt;/a> of USD 80,000 will be used to 20 percent for development of new features and to 80 percent for general maintenance of the MapLibre codebases and project coordination.&lt;/p></description></item><item><title>MapLibre Newsletter January 2024</title><link>https://maplibre.org/news/2024-01-30-maplibre-newsletter-january-2024/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-01-30-maplibre-newsletter-january-2024/</guid><description>&lt;h1 id="maplibre-newsletter---january-2024">MapLibre Newsletter - January 2024 &lt;a class="heading-link" href="#maplibre-newsletter---january-2024">&lt;/a>&lt;/h1>
-&lt;p>A lot of great things happened this January: Maputnik, Metal, new releases of MapLibre Native Node bindings and Martin, and hopefully our last prerelease of MapLibre GL JS v4 all appeared this month.&lt;/p></description></item><item><title>Metal Support for MapLibre Native iOS Is Here!</title><link>https://maplibre.org/news/2024-01-19-metal-support-for-maplibre-native-ios-is-here/</link><pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2024-01-19-metal-support-for-maplibre-native-ios-is-here/</guid><description>&lt;p>We are excited to announce the release of MapLibre Native for iOS v6.0.0 with Metal support!&lt;/p>
-&lt;img src="screenshot.png" style="max-width:600px;width:100%">
-&lt;br/>
-&lt;br/>
-&lt;p>&lt;a href="https://github.com/maplibre/maplibre-native">MapLibre Native&lt;/a> is a map rendering toolkit written in C++ that can be used on many different &lt;a href="https://github.com/maplibre/maplibre-native?tab=readme-ov-file#platforms">platforms&lt;/a>. For GPU accelerated real-time rendering, MapLibre Native traditionally relied only on the industry standard graphics API called OpenGL ES. However, in 2018 Apple announced that it would be phasing out OpenGL ES on all Apple platforms in favor of &lt;a href="https://en.wikipedia.org/wiki/Metal_(API)">Metal&lt;/a>. This put MapLibre at risk of being unusable on Apple devices in the case that OpenGL ES support should be discontinued. With the new Metal rendering backend we are no longer exposed to this risk and users will benefit from the advantages of a state-of-the-art graphics framework.&lt;/p></description></item><item><title>MapLibre Newsletter December 2023</title><link>https://maplibre.org/news/2023-12-30-maplibre-newsletter-december-2023/</link><pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-12-30-maplibre-newsletter-december-2023/</guid><description>&lt;h1 id="maplibre-newsletter---december-2023">MapLibre Newsletter - December 2023 &lt;a class="heading-link" href="#maplibre-newsletter---december-2023">&lt;/a>&lt;/h1>
-&lt;p>&lt;a href="https://demotiles.maplibre.org">&lt;img src="./happy-2024.jpg" style="max-width: 100%">&lt;/a>&lt;/p>
-&lt;p>MapLibre wishes you all the best for 2024! &lt;a href="https://demotiles.maplibre.org">https://demotiles.maplibre.org&lt;/a>&lt;/p>
-&lt;p>2023 was an interesting year for MapLibre. It was the first time that we had paid maintainers who took care of MapLibre GL JS and MapLibre Native. Harel Mazor and Bart Louwers are the main people who served in this role and thanks to their great effort, contributing to MapLibre was faster and smoother than ever before.&lt;/p></description></item><item><title>MapLibre Newsletter November 2023</title><link>https://maplibre.org/news/2023-11-30-maplibre-newsletter-november-2023/</link><pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-11-30-maplibre-newsletter-november-2023/</guid><description>&lt;h1 id="maplibre-newsletter---november-2023">MapLibre Newsletter - November 2023 &lt;a class="heading-link" href="#maplibre-newsletter---november-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="maplibre-gl-js">MapLibre GL JS &lt;a class="heading-link" href="#maplibre-gl-js">&lt;/a>&lt;/h2>
-
-&lt;h3 id="v4">v4 &lt;a class="heading-link" href="#v4">&lt;/a>&lt;/h3>
-&lt;p>Versions 3.5.2, 3.6.0, 3.6.1 were released, and we started going into the pre-release mode for MapLibre GL JS v4. The most significant breaking change in version 4 will be the replacement of outdated JavaScript callbacks with Promises in several public APIs.&lt;/p></description></item><item><title>Meta continues to support MapLibre</title><link>https://maplibre.org/news/2023-11-08-meta-continues-to-support-maplibre/</link><pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-11-08-meta-continues-to-support-maplibre/</guid><description>&lt;p>Meta continues to support MapLibre and increases its donation from the Silver to the Gold tier in its second year of sponsorship.&lt;/p>
-&lt;img src="maplibre-meta-logo.png" width="100%"/>
-&lt;br />
-&lt;br />
-&lt;p>The Gold tier donation of USD 150,000 will be used to 25 percent for development of new features and to 75 percent for general maintenance of the MapLibre codebases and project coordination.&lt;/p></description></item><item><title>MapLibre Newsletter October 2023</title><link>https://maplibre.org/news/2023-10-30-maplibre-newsletter-october-2023/</link><pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-10-30-maplibre-newsletter-october-2023/</guid><description>&lt;h1 id="maplibre-newsletter---october-2023">MapLibre Newsletter - October 2023 &lt;a class="heading-link" href="#maplibre-newsletter---october-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="maplibre-gl-js">MapLibre GL JS &lt;a class="heading-link" href="#maplibre-gl-js">&lt;/a>&lt;/h2>
-&lt;p>Just in time for this newsletter, MapLibre GL JS has gained over &lt;a href="https://github.com/maplibre/maplibre-gl-js/stargazers">5000 Stars on GitHub&lt;/a>. Great that we got so far and thanks to everyone who contributed in the past and made this possible!&lt;/p></description></item><item><title>MapLibre Newsletter September 2023</title><link>https://maplibre.org/news/2023-09-18-maplibre-newsletter-september-2023/</link><pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-09-18-maplibre-newsletter-september-2023/</guid><description>&lt;h1 id="maplibre-newsletter---september-2023">MapLibre Newsletter - September 2023 &lt;a class="heading-link" href="#maplibre-newsletter---september-2023">&lt;/a>&lt;/h1>
-
-&lt;h3 id="governing-board-elections">Governing Board Elections &lt;a class="heading-link" href="#governing-board-elections">&lt;/a>&lt;/h3>
-&lt;p>It is already one year now that MapLibre has an elected Governing Board, and as the Board members serve a one-year-term, it was time for new Governing Board Elections. We held the Elections and all existing Board members have been re-elected. Read more &lt;a href="https://maplibre.org/news/2023-08-30-results-governing-board-election/">here&lt;/a>.&lt;/p></description></item><item><title>Results of the 2023 MapLibre Governing Board Election</title><link>https://maplibre.org/news/2023-08-30-results-governing-board-election/</link><pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-08-30-results-governing-board-election/</guid><description>&lt;p>The MapLibre Governing Board Elections are finished - all existing Board members have been reelected.&lt;/p>
-&lt;hr/>
-&lt;h1 class="text-center">MapLibre Governing Board 2023&lt;/h1>
-&lt;div class="container">
- &lt;div class="row justify-content-center">
- &lt;div class="col-xl-2 text-center">
- &lt;img
- src="https://avatars.githubusercontent.com/u/74932975?v=4"
- width="150"
- class="rounded-circle mt-3"
- />
- &lt;h3 class="m-3">Birk Skyum&lt;/h3>
- &lt;/div>
- &lt;div class="col-xl-2 text-center">
- &lt;img
- src="https://avatars.githubusercontent.com/u/3269297?v=4"
- width="150"
- class="rounded-circle mt-3"
- />
- &lt;h3 class="m-3">Harel Mazor&lt;/h3>
- &lt;/div>
- &lt;div class="col-xl-2 text-center">
- &lt;img
- src="https://avatars.githubusercontent.com/u/157650?v=4"
- width="150"
- class="rounded-circle mt-3"
- />
- &lt;h3 class="m-3">Luke Seelenbinder&lt;/h3>
- &lt;/div>
- &lt;div class="col-xl-2 text-center">
- &lt;img
- src="https://avatars.githubusercontent.com/u/59284?v=4"
- width="150"
- class="rounded-circle mt-3"
- />
- &lt;h3 class="m-3">Petr Pridal&lt;/h3>
- &lt;/div>
- &lt;div class="col-xl-2 text-center">
- &lt;img
- src="https://avatars.githubusercontent.com/u/1641515?v=4"
- width="150"
- class="rounded-circle mt-3"
- />
- &lt;h3 class="m-3">Yuri Astrakhan&lt;/h3>
- &lt;/div>
- &lt;/div>
-&lt;/div>
-&lt;hr/>
-&lt;p>Congratulations to the elected Board members and a big thank you to Jonah Adkins for running for the Board as the only newcomer!&lt;/p></description></item><item><title>MapLibre Newsletter August 2023</title><link>https://maplibre.org/news/2023-08-26-maplibre-newsletter-august-2023/</link><pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-08-26-maplibre-newsletter-august-2023/</guid><description>&lt;h1 id="maplibre-newsletter---august-2023">MapLibre Newsletter - August 2023 &lt;a class="heading-link" href="#maplibre-newsletter---august-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="highlights">Highlights &lt;a class="heading-link" href="#highlights">&lt;/a>&lt;/h2>
-
-&lt;h3 id="governing-board-elections">Governing Board Elections &lt;a class="heading-link" href="#governing-board-elections">&lt;/a>&lt;/h3>
-&lt;p>We want to thank each and every of our 92 (49 new!) &lt;a href="https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md">Voting Members&lt;/a> for their vote and are looking forward to a next great year with our vibrant community. The result of the election will be published separately next week.&lt;/p></description></item><item><title>Radar becomes a MapLibre Silver Sponsor</title><link>https://maplibre.org/news/2023-08-11-radar-becomes-a-maplibre-silver-sponsor/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-08-11-radar-becomes-a-maplibre-silver-sponsor/</guid><description>&lt;img src="https://user-images.githubusercontent.com/74932975/260068393-4b267b2c-a4f9-4be1-8997-2b8c1d88825e.png" width="100%" />
-&lt;p>Radar is joining the MapLibre Sponsorship Program as a Silver Sponsor.&lt;/p>
-&lt;p>&lt;a href="https://github.com/tjulien">Tim Julien&lt;/a>, CTO at Radar, was so kind to share a few insights into Radar and its relationship to MapLibre below:&lt;/p></description></item><item><title>Governing Board Elections 2023</title><link>https://maplibre.org/news/2023-08-02-governing-board-elections-2023/</link><pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-08-02-governing-board-elections-2023/</guid><description>&lt;h1 id="governing-board-elections-2023">Governing Board Elections 2023 &lt;a class="heading-link" href="#governing-board-elections-2023">&lt;/a>&lt;/h1>
-&lt;p>The Governing Board Elections 2023 will take place August 24th, 2023. We want to emphasize the process of nominating Candidates for the Governing Board as well as new Voting Members and are looking forward to your suggestions.&lt;/p></description></item><item><title>MapLibre Newsletter July 2023</title><link>https://maplibre.org/news/2023-07-30-maplibre-newsletter-july-2023/</link><pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-07-30-maplibre-newsletter-july-2023/</guid><description>&lt;h1 id="maplibre-newsletter---july-2023">MapLibre Newsletter - July 2023 &lt;a class="heading-link" href="#maplibre-newsletter---july-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="highlights">Highlights &lt;a class="heading-link" href="#highlights">&lt;/a>&lt;/h2>
-
-&lt;h3 id="covtiles">COVTiles &lt;a class="heading-link" href="#covtiles">&lt;/a>&lt;/h3>
-&lt;p>We want to emphasize &lt;a href="https://github.com/mactrem">Markus Tremmel&amp;rsquo;s&lt;/a> input of prototyping a new vector tile format called &lt;a href="https://github.com/mactrem/cov-tiles#cloud-optimized-vector-tiles-covtiles">COVTiles&lt;/a>.&lt;/p>
-
-&lt;h2 id="maplibre-native">MapLibre Native &lt;a class="heading-link" href="#maplibre-native">&lt;/a>&lt;/h2>
-
-&lt;h3 id="harfbuzz">Harfbuzz &lt;a class="heading-link" href="#harfbuzz">&lt;/a>&lt;/h3>
-&lt;p>&lt;a href="https://github.com/alanchenboy">Alan Wei Chen&lt;/a> has shared a demo using Harfbuzz to render complex text. Check out &lt;a href="https://github.com/maplibre/maplibre-native/pull/1439">#1439&lt;/a>.&lt;/p></description></item><item><title>MapLibre Newsletter June 2023</title><link>https://maplibre.org/news/2023-06-23-maplibre-newsletter-june-2023/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-06-23-maplibre-newsletter-june-2023/</guid><description>&lt;h1 id="maplibre-newsletter---june-2023">MapLibre Newsletter - June 2023 &lt;a class="heading-link" href="#maplibre-newsletter---june-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="highlights">Highlights &lt;a class="heading-link" href="#highlights">&lt;/a>&lt;/h2>
-
-&lt;h3 id="jawgmaps">JawgMaps &lt;a class="heading-link" href="#jawgmaps">&lt;/a>&lt;/h3>
-&lt;a href="https://www.jawg.io/en/">
- &lt;img src="https://maplibre.org/img/jawgmaps-logo.svg" width="25%" />
-&lt;/a>
-&lt;p>We would like to thank JawgMaps for their trust. As you might have read in our &lt;a href="https://maplibre.org/news/2023-06-22-jawgmaps-becomes-a-maplibre-silver-sponsor/">previous announcement&lt;/a>, JawgMaps has joined the MapLibre Sponsorship Program and supports us as a Silver Sponsor!&lt;/p></description></item><item><title>JawgMaps becomes a MapLibre Silver Sponsor</title><link>https://maplibre.org/news/2023-06-22-jawgmaps-becomes-a-maplibre-silver-sponsor/</link><pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-06-22-jawgmaps-becomes-a-maplibre-silver-sponsor/</guid><description>&lt;p>We are happy to announce that JawgMaps has joined the MapLibre Sponsorship Program and supports us as a Silver Sponsor!&lt;/p>
-&lt;img src="maplibre-jawgmaps-logo.svg" width="100%"/>
-&lt;p>The JawgMaps platform provides enterprise-grade mapping services built from both OpenSource and proprietary tools, as well as OpenStreetMap data. Far from simply being a map customizing tool, Jawg provides you with statistics that enable you to adapt your product according to the needs of your users.&lt;/p></description></item><item><title>maplibre-rs monthly (special issue)</title><link>https://maplibre.org/news/2023-06-07-maplibre-rs-monthly/</link><pubDate>Wed, 07 Jun 2023 21:46:44 +0200</pubDate><guid>https://maplibre.org/news/2023-06-07-maplibre-rs-monthly/</guid><description>&lt;p>It is finally time for a new maplibre-rs monthly! Or should I say yearly? The last update was 2022 and we already have 2023!
-The development of maplibre-rs did not come to a total standstill, even though it may look like it did.&lt;/p></description></item><item><title>MapLibre GL JS v3</title><link>https://maplibre.org/news/2023-05-23-maplibre-gl-js-v3/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-05-23-maplibre-gl-js-v3/</guid><description>&lt;meta name="x:site" content="@maplibre">
-&lt;meta name="x:title" content="MapLibre GL JS v3">
-&lt;meta property="x:domain" content="maplibre.org">
-&lt;meta name="x:card" content="summary_large_image">
-&lt;meta property="x:url" content="https://maplibre.org/news/2023-05-23-maplibre-gl-js-v3/">
-&lt;meta name="x:description" content="MapLibre GL JS v3 - Improvements to Terrain3D, WebGL2, Color spaces, Performance and more!">
-&lt;meta name="x:image" content="https://maplibre.org/news/2023-05-23-maplibre-gl-js-v3/header.png">
-&lt;p>This release is a big step for MapLibre GL JS! With more than 500 commits, and almost a year in the making, version 3.0.0 is surely our best release yet. Lots of features, performance improvement, bug fixes and a few potentially breaking changes that were necessary, to keep the project healthy, are to be found here.&lt;/p></description></item><item><title>MapLibre Newsletter May 2023</title><link>https://maplibre.org/news/2023-05-18-maplibre-newsletter-may-2023/</link><pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-05-18-maplibre-newsletter-may-2023/</guid><description>&lt;h1 id="maplibre-newsletter---may-2023">MapLibre Newsletter - May 2023 &lt;a class="heading-link" href="#maplibre-newsletter---may-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="highlights">Highlights &lt;a class="heading-link" href="#highlights">&lt;/a>&lt;/h2>
-
-&lt;h4 id="mierune">Mierune &lt;a class="heading-link" href="#mierune">&lt;/a>&lt;/h4>
-&lt;a href="https://www.mierune.co.jp/?lang=en">
- &lt;img src="https://maplibre.org/img/mierune-logo.svg" width="25%" />
-&lt;/a>
-&lt;p>We would like to thank our first sponsor &lt;a href="https://www.mierune.co.jp/">Mierune&lt;/a> for their continued trust in MapLibre.&lt;/p>
-
-&lt;h4 id="maplibre-innovation-lab">MapLibre Innovation Lab &lt;a class="heading-link" href="#maplibre-innovation-lab">&lt;/a>&lt;/h4>
-&lt;p>Many real-world applications have been built with MapLibre. As suggested &lt;a href="https://github.com/maplibre/maplibre/discussions/242">here&lt;/a> it is about bringing the Community together. Implementing new ideas is what will make MapLibre thrive further. We want to recognize all of your efforts, collectively, and so decided to expand on the idea of the MapLibre Innovation Lab - stay tuned.&lt;/p></description></item><item><title>MapLibre Newsletter April 2023</title><link>https://maplibre.org/news/2023-04-14-maplibre-newsletter-april-2023/</link><pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-04-14-maplibre-newsletter-april-2023/</guid><description>&lt;h1 id="maplibre-newsletter---april-2023">MapLibre Newsletter - April 2023 &lt;a class="heading-link" href="#maplibre-newsletter---april-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="highlights">Highlights &lt;a class="heading-link" href="#highlights">&lt;/a>&lt;/h2>
-&lt;img style="max-width:100%;" src="https://maplibre.org/news/2023-04-06-komoot-becomes-a-maplibre-silver-sponsor/maplibre-komoot-logo.svg" width=450>
-&lt;p>&lt;strong>Komoot&lt;/strong> joined the MapLibre Sponsorship Program as a Silver Sponsor. Welcome komoot, we are glad to have you in the MapLibre community! Read the &lt;a href="https://maplibre.org/news/2023-04-06-komoot-becomes-a-maplibre-silver-sponsor/">news announcement&amp;hellip;&lt;/a>&lt;/p></description></item><item><title>Komoot becomes a MapLibre Silver Sponsor</title><link>https://maplibre.org/news/2023-04-06-komoot-becomes-a-maplibre-silver-sponsor/</link><pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-04-06-komoot-becomes-a-maplibre-silver-sponsor/</guid><description>&lt;p>We are happy to announce that komoot has joined the MapLibre Sponsorship Program and supports us as a Silver Sponsor!&lt;/p>
-&lt;img src="maplibre-komoot-logo.svg" width="100%"/>
-&lt;p>Komoot is an app that lets you find, plan, and share adventures with its easy route planner. Driven by a love for nature, and powered by the outdoor community’s recommendations, komoot helps you explore more of the great outdoors—wherever and however you want.&lt;/p></description></item><item><title>MapLibre Navigation Android V2.0.0 Released</title><link>https://maplibre.org/news/2023-03-27-android-navigation-version-2/</link><pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-03-27-android-navigation-version-2/</guid><description>&lt;p>We just released version 2.0.0 of &lt;a href="https://github.com/maplibre/maplibre-navigation-android">MapLibre&amp;rsquo;s navigation library&lt;/a>. The update comes with the latest version of MapLibre Native (10.0.2) and includes a navigation UI by default.&lt;/p>
-&lt;img src="maplibre-navigation-android.png" alt="Screenshot of MapLibre Navigation V2" style="max-width:600px;width:100%">
-&lt;p>MapLibre Navigation Android is an open source navigation library which allows everyone to build a customized navigation experience on Android.
-You can easily integrate a lot of different tiles, as you are used to from MapLibre Native.
-You can integrate your own routing backend, OSRM and GraphHopper (using the &lt;code>/navigate&lt;/code> endpoint) are easy to implement.
-You can build your own navigation UI. An example implementation of such a custom implementation can be found in the &lt;a href="https://play.google.com/store/apps/details?id=com.kurviger.app">Kurviger App&lt;/a>.&lt;/p></description></item><item><title>Metal Project Team Started</title><link>https://maplibre.org/news/2023-03-23-metal-project-team-started/</link><pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-03-23-metal-project-team-started/</guid><description>&lt;p>The Metal project team has started working! The goal is to deliver a Metal beta release for MapLibre Native by the end of 2023.&lt;/p>
-&lt;img src="screenshot.png" style="max-width:600px;width:100%">
-&lt;p>AWS and Meta are teaming up in this effort because they both recognize the importance of Metal as a modern graphics backend on Apple devices.&lt;/p></description></item><item><title>MapLibre Newsletter March 2023</title><link>https://maplibre.org/news/2023-03-20-maplibre-newsletter-march-2023/</link><pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-03-20-maplibre-newsletter-march-2023/</guid><description>&lt;h1 id="maplibre-newsletter---march-2023">MapLibre Newsletter - March 2023 &lt;a class="heading-link" href="#maplibre-newsletter---march-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="general">General &lt;a class="heading-link" href="#general">&lt;/a>&lt;/h2>
-
-&lt;h4 id="bounty-program">Bounty Program &lt;a class="heading-link" href="#bounty-program">&lt;/a>&lt;/h4>
-&lt;p>We invite you to share feedback on what features and improvements in MapLibre GL JS and MapLibre Native would be helpful for you. Tell us what you need and vote for the things which are most important to you following these &lt;a href="https://maplibre.org/news/2023-03-13-second-call-for-bounties/">feedback instructions&lt;/a>.&lt;/p></description></item><item><title>Second Call for Bounties</title><link>https://maplibre.org/news/2023-03-13-second-call-for-bounties/</link><pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-03-13-second-call-for-bounties/</guid><description>&lt;p>We are happy to invite you to a second round of voting on Bounty directions. Please let us know which features would be helpful for you and upvote existing suggestions.&lt;/p></description></item><item><title>MapLibre Newsletter February 2023</title><link>https://maplibre.org/news/2023-02-16-maplibre-newsletter-february-2023/</link><pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-02-16-maplibre-newsletter-february-2023/</guid><description>&lt;h1 id="maplibre-newsletter---february-2023">MapLibre Newsletter - February 2023 &lt;a class="heading-link" href="#maplibre-newsletter---february-2023">&lt;/a>&lt;/h1>
-
-&lt;h2 id="general">General &lt;a class="heading-link" href="#general">&lt;/a>&lt;/h2>
-&lt;p>We have successfully registered the MapLibre trademark in the &lt;a href="https://tsdr.uspto.gov/#caseNumber=97744197&amp;amp;caseType=SERIAL_NO&amp;amp;searchType=statusSearch">US&lt;/a> and in the &lt;a href="https://euipo.europa.eu/eSearch/#details/trademarks/018773096">EU&lt;/a>. Open Source Collective, our fiscal host, holds the MapLibre trademarks.&lt;/p>
-&lt;p>MapLibre React Native has been published. Thanks Ian, Luke, and Jérôme for contributing this package. Read more &lt;a href="https://maplibre.org/news/2023-02-08-maplibre-react-native-announcement/">here&lt;/a>.&lt;/p></description></item><item><title>MapLibre React Native Announcement</title><link>https://maplibre.org/news/2023-02-08-maplibre-react-native-announcement/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-02-08-maplibre-react-native-announcement/</guid><description>&lt;p>MapLibre has completed onboarding of &lt;a href="https://github.com/maplibre/maplibre-react-native">MapLibre React Native&lt;/a>, an SDK
-that will make MapLibre Native more accessible to mobile developers.&lt;/p>
-&lt;p>The project is a fork of &lt;a href="https://github.com/rnmapbox/maps">rnmapbox&lt;/a>, a community-maintained React Native library
-for building maps with the Mapbox iOS and Android SDKs. The original project supported both Mapbox and MapLibre
-backends for some time, but as the MapLibre SDK has developed independently over time, supporting both became onerous.
-A clean break enables both projects to bring improvements and bug fixes from the native SDKs to
-React Native developers as quickly as possible.&lt;/p></description></item><item><title>MapLibre User Group Japan</title><link>https://maplibre.org/news/2023-01-23-maplibre-user-group-japan/</link><pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-01-23-maplibre-user-group-japan/</guid><description>&lt;p>If you speak Japanese and you are interested in map rendering, have a look at the newly created MapLibre User Group Japan.&lt;/p>
-&lt;p>
-&lt;img src="mlug-jp_logo.png" alt="Logo MapLibre User Group Japan" style="max-width:600px;width:100%">
-&lt;/p>
-&lt;br />
-&lt;a href="https://bit.ly/mug--jp">Official Website&lt;/a>
-&lt;br />
-&lt;a href="https://twitter.com/i/spaces/1OyKAVvlgvbGb">X Space&lt;/a>
-&lt;br />
-Yasunori Kirimoto and Kanahiro Iguchi who are both &lt;a href="https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md">MapLibre Voting Members&lt;/a> are organizing the User Group. The plan is to create online meetups and bring people together who are interested in MapLibre. They also have some nice MapLibre swag for you!</description></item><item><title>Bounty Directions</title><link>https://maplibre.org/news/2023-01-20-bounty-directions/</link><pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-01-20-bounty-directions/</guid><description>&lt;p>The MapLibre Bounty Program will support the following cross-project directions: Terrain3D, globe view, documentation, performance, Brahmic/Indic scripts, MapLibre Innovation Lab.&lt;/p>
-&lt;p>We invited the broader community to give feedback and share ideas for cross-project directions in a &lt;a href="https://github.com/maplibre/maplibre/discussions/categories/bounties-cross-project-directions?discussions_q=category%3A%22Bounties+-+cross-project+directions%22+sort%3Atop">discussion group on GitHub&lt;/a>.&lt;/p></description></item><item><title>Harel Mazor starts as Maintainer Web</title><link>https://maplibre.org/news/2023-01-16-announcement-harel/</link><pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-01-16-announcement-harel/</guid><description>&lt;p>We are happy to share that we were able to contract Harel Mazor, the long-time lead-maintainer of MapLibre GL JS, for the Maintainer Web role. Please give him a warm welcome!&lt;/p></description></item><item><title>Ovidiu Voda starts as Maintainer Native</title><link>https://maplibre.org/news/2023-01-16-announcement-ovi/</link><pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-01-16-announcement-ovi/</guid><description>&lt;p>With Ovidiu Voda starting today, we are proud to now have two people working as Maintainers on MapLibre Native. Please give Ovi a warm welcome!&lt;/p>
-&lt;p>Ovi is going to work together with Bart Louwers on Native and he is looking forward to meeting everyone involved in the project. Feel free to reach out to Ovi and say hi to him.&lt;/p></description></item><item><title>Grab Talk Khmer</title><link>https://maplibre.org/news/2023-01-12-grab-talk-khmer/</link><pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-01-12-grab-talk-khmer/</guid><description>&lt;p>Alan Wei Chen from &lt;a href="https://www.grab.com/sg/business/maps/">GrabMaps&lt;/a> is giving a talk about how Grab renders text labels in the Khmer language using FreeType and HarfBuzz in the next MapLibre Eastern Call. Feel free to join the presentation!&lt;/p></description></item><item><title>Steering Committee Notes January</title><link>https://maplibre.org/news/2023-01-11-steering-committee-notes/</link><pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-01-11-steering-committee-notes/</guid><description>&lt;p>We had our first monthly meeting of 2023. You find the meeting notes &lt;a href="https://github.com/maplibre/maplibre/discussions/187">here&lt;/a>.&lt;/p>
-&lt;p>Feel free to join our next monthly meeting on Wednesday, Feb 8th, 2023. The technical steering committee meetings are open to everyone!&lt;/p></description></item><item><title>Developing Plugins for MapLibre Interoperability</title><link>https://maplibre.org/news/2023-01-03-aws-maplibre-plugins/</link><pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-01-03-aws-maplibre-plugins/</guid><description>&lt;p>Considering that MapLibre is an open-source fork of the Mapbox rendering library, many of the Mapbox plugins can be used in conjunction with MapLibre without any issue in JavaScript. However, since MapLibre is a TypeScript library in the same spirit, if you wish to use some of the popular Mapbox plugins in your TypeScript application you will likely run into the TypeScript compiler throwing a lot of type inference errors. This is because these plugins were developed with Mapbox solely in mind.&lt;/p></description></item><item><title>Bart Louwers starts as Maintainer Native</title><link>https://maplibre.org/news/2023-01-03-announcement-bart/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2023-01-03-announcement-bart/</guid><description>&lt;p>Today, Bart Louwers is starting to work with MapLibre in the Maintainer Native role. Let&amp;rsquo;s give him a warm welcome!&lt;/p>
-&lt;p>Bart is excited to meet the people involved in the project and learn more about the codebase and the community behind it. Feel free to reach out to Bart and say hello to him&amp;hellip;&lt;/p></description></item><item><title>maplibre-rs monthly</title><link>https://maplibre.org/news/2022-12-18-maplibre-rs-monthly/</link><pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-12-18-maplibre-rs-monthly/</guid><description>&lt;p>&lt;a href="https://github.com/maplibre/maplibre-rs">maplibre-rs&lt;/a> is an upcoming and cross-platform vector map renderer written in Rust. If you want to get in touch with the developers, visit the &lt;a href="https://matrix.to/#/#mapr:matrix.org">#maplibre:matrix.org&lt;/a> chat or join the MapLibre (#maplibre and #maplibre-rs) community within the OpenStreetMap Slack. You can get an invitation &lt;a href="https://slack.openstreetmap.us/">here&lt;/a>.&lt;/p></description></item><item><title>Call for Bounties💰</title><link>https://maplibre.org/news/2022-10-16-call-for-bounties/</link><pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-10-16-call-for-bounties/</guid><description>&lt;p>If you have ideas for new features which you would love to see from MapLibre, you can now share your idea
-and tell us that we should allocate Bounties for it. Bounties are pre-defined cash prizes for development tasks.&lt;/p></description></item><item><title>Steering Committee Notes December</title><link>https://maplibre.org/news/2022-12-15-steering-committee-notes/</link><pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-12-15-steering-committee-notes/</guid><description>&lt;p>Yesterday, we had a first MapLibre Eastern Call at 9 AM CET, the native technical steering committee meeting at 7 PM CET, and the web technical steering committee meeting at 8 PM CET. All notes are avaialbe at &lt;a href="https://github.com/maplibre/maplibre/discussions/154">https://github.com/maplibre/maplibre/discussions/154&lt;/a>.&lt;/p></description></item><item><title>Metal Announcement</title><link>https://maplibre.org/news/2022-10-28-metal-announcement/</link><pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-10-28-metal-announcement/</guid><description>&lt;p>MapLibre Native is planning for modularization and migration to Metal, Apple&amp;rsquo;s graphics framework, for rendering on iOS mobile devices.&lt;/p>
-&lt;p>
-&lt;img src="metal.png" alt="Metal" style="max-width:600px;width:100%">
-&lt;/p>
-&lt;p>A design proposal for the modularization of the map rendering architecture can be found at &lt;a href="https://github.com/maplibre/maplibre-native/pull/547">https://github.com/maplibre/maplibre-native/pull/547&lt;/a>. This modularization will allow new rendering architectures to be implemented quickly and more easily, and we anticipate that the modularization will give us a concrete framework to better interrogate various migration strategies. Feel free to share your thoughts on this approach in the Pull Request.&lt;/p></description></item><item><title>Work on Open-Source</title><link>https://maplibre.org/news/2022-10-11-work-on-open-source/</link><pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-10-11-work-on-open-source/</guid><description>&lt;p>
-&lt;a href="https://maplibre.org/jobs">
-&lt;img src="maplibre-org-jobs.svg" alt="maplibre.org/jobs" style="max-width:600px;width:100%">
-&lt;/a>
-&lt;/p>
-&lt;p>We thank all our sponsors for their generous financial support and assistance in building the MapLibre Organization.&lt;/p>
-&lt;p>We were successful in securing initial funding and would now like to pay people from the community for coordination, maintenance, and development work.&lt;/p></description></item><item><title>Oliver Wipfli becomes MapLibre's first Coordinator</title><link>https://maplibre.org/news/2022-10-07-oliver-coordinator/</link><pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-10-07-oliver-coordinator/</guid><description>&lt;p>The MapLibre Governing Board selected &lt;a href="https://github.com/wipfli">Oliver Wipfli&lt;/a> to work as Coordinator of the MapLibre Organization. Oliver did this very well until now in his free time, and we need immediate action.&lt;/p></description></item><item><title>maplibre-rs monthly</title><link>https://maplibre.org/news/2022-09-24-maplibre-rs-monthly/</link><pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-09-24-maplibre-rs-monthly/</guid><description>&lt;p>&lt;a href="https://github.com/maplibre/maplibre-rs">maplibre-rs&lt;/a> is an upcoming and cross-platform vector map renderer written in Rust. If you want to get in touch with the developers, visit the &lt;a href="https://matrix.to/#/#mapr:matrix.org">#maplibre:matrix.org&lt;/a> chat or join the MapLibre (#maplibre and #maplibre-rs) community within the OpenStreetMap Slack. You can get an invitation &lt;a href="https://slack.openstreetmap.us">here&lt;/a>.&lt;/p></description></item><item><title>Governing Board Election and Charter Approval</title><link>https://maplibre.org/news/2022-09-02-election/</link><pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-09-02-election/</guid><description>&lt;p>On Thursday, Aug 25th, 2022, the MapLibre Voting Members elected for the first time a Governing Board and they approved the MapLibre Charter. We thank all the candidates and Voting Members for participating in this process!&lt;/p></description></item><item><title>Meta becomes a MapLibre Sponsor</title><link>https://maplibre.org/news/2022-08-26-meta-announcement/</link><pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-08-26-meta-announcement/</guid><description>&lt;p>We are pleased to announce that Meta now is a sponsor of the MapLibre Organization. Thanks for your generous help and for all the trust you put in us!&lt;/p>
-&lt;img src="https://maplibre.org/img/maplibre-meta-logo.svg" width="100%"/>
-&lt;p>Meta has been involved in the MapLibre Organization since the very beginning, helped setting up the initial fork, and provided guidance on non-trivial questions around licensing.&lt;/p></description></item><item><title>maplibre-rs paper published</title><link>https://maplibre.org/news/2022-08-24-maplibre-rs-paper/</link><pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-08-24-maplibre-rs-paper/</guid><description>&lt;p>&lt;a href="https://github.com/maplibre/maplibre-rs">maplibre-rs&lt;/a> is an experimental &amp;amp; portable vector map renderer written in Rust. If you want to get in touch with the developers, visit the &lt;a href="https://matrix.to/#/#mapr:matrix.org">#maplibre:matrix.org&lt;/a> chat or our Slack at &lt;a href="https://osmus.slack.com/">osmus.slack.com&lt;/a>.&lt;/p>
-&lt;p>Together with researches from the University of Applied Sciences and Arts (HES-SO/HEIG-VD) in Switzerland, we published the first scientific paper about maplibre-rs. It is available as open-access &lt;a href="https://doi.org/10.5194/isprs-archives-XLVIII-4-W1-2022-35-2022">here&lt;/a>.
-The paper includes a comprehensive review of existing open-source map renderers and their portability. We describe the architecture of maplibre-rs and uncover the challenges we encountered.&lt;/p></description></item><item><title>AWS becomes a MapLibre Platinum Sponsor</title><link>https://maplibre.org/news/2022-08-22-aws-announcement/</link><pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-08-22-aws-announcement/</guid><description>&lt;p>We are pleased to announce the Amazon Web Services (AWS) support for the MapLibre
-Organization as a Platinum Sponsor. Thanks for your generous support and for all the trust you
-put in us!&lt;/p></description></item><item><title>Steering Committee Notes May</title><link>https://maplibre.org/news/2022-07-13-steering-committee-notes/</link><pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-07-13-steering-committee-notes/</guid><description>&lt;p>Steering committee meeting notes available
-&lt;a href="https://github.com/maplibre/maplibre/discussions/69">here&lt;/a>.&lt;/p></description></item><item><title>maplibre-rs monthly</title><link>https://maplibre.org/news/2022-06-26-maplibre-rs-monthly/</link><pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-06-26-maplibre-rs-monthly/</guid><description>&lt;p>&lt;a href="https://github.com/maplibre/maplibre-rs">maplibre-rs&lt;/a> is an upcoming and cross-platform vector map renderer written in Rust. If you want to get in touch with the developers visit the &lt;a href="https://matrix.to/#/#mapr:matrix.org">#maplibre:matrix.org&lt;/a> chat or join the MapLibre (#maplibre and #maplibre-rs) community within the OpenStreetMap Slack. You can get an invite &lt;a href="https://slack.openstreetmap.us">here&lt;/a>.&lt;/p></description></item><item><title>MIERUNE Inc. supports MapLibre with USD 10'000</title><link>https://maplibre.org/news/2022-06-10-mierune-announcement/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-06-10-mierune-announcement/</guid><description>&lt;p>Recently, &lt;a href="https://www.mierune.co.jp/?lang=en">MIERUNE Inc.&lt;/a> from Japan decided to support MapLibre financially with a generous donation of USD 10'000, see &lt;a href="https://opencollective.com/maplibre">https://opencollective.com/maplibre&lt;/a>. This is the largest ammount that MapLibre has received to date.&lt;/p>
-&lt;p>Thank you MIERUNE Inc., we are very proud that you trust MapLibre and support us!&lt;/p></description></item><item><title>Steering Committee Notes June</title><link>https://maplibre.org/news/2022-06-08-steering-committee-notes/</link><pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-06-08-steering-committee-notes/</guid><description>&lt;p>Steering committee meeting notes available
-&lt;a href="https://github.com/maplibre/maplibre/discussions/34">here&lt;/a>.&lt;/p></description></item><item><title>maplibre-rs monthly</title><link>https://maplibre.org/news/2022-05-23-maplibre-rs-monthly/</link><pubDate>Mon, 23 May 2022 20:16:02 +0200</pubDate><guid>https://maplibre.org/news/2022-05-23-maplibre-rs-monthly/</guid><description>&lt;p>&lt;a href="https://github.com/maplibre/maplibre-rs">maplibre-rs&lt;/a> is an upcoming and cross-platform vector map renderer written in Rust. If you want to get in touch with the developers visit the &lt;a href="https://matrix.to/#/#mapr:matrix.org">#maplibre:matrix.org&lt;/a> chat or join the MapLibre (#maplibre and #maplibre-rs) community within the OpenStreetMap Slack. You can get an invite &lt;a href="https://slack.openstreetmap.us">here&lt;/a>.&lt;/p></description></item><item><title>Terrain3D</title><link>https://maplibre.org/news/2022-05-20-terrain3d/</link><pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-05-20-terrain3d/</guid><description>&lt;p>The Terrain3D &lt;a href="https://github.com/maplibre/maplibre-gl-js/pull/1022">pull request&lt;/a> of Max Demmelbauer from &lt;a href="https://www.toursprung.com/en/">Toursprung&lt;/a> was merged into main. Thanks for all the hard work!&lt;/p>
-&lt;p>You can now try out the 3D feature yourself with the pre-release version MapLibre GL JS &lt;a href="https://www.npmjs.com/package/maplibre-gl/v/2.2.0-pre.2">&lt;code>v2.2.0-pre.2&lt;/code>&lt;/a>.&lt;/p></description></item><item><title>maplibre-rs weekly</title><link>https://maplibre.org/news/2022-05-13-maplibre-rs-weekly/</link><pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-05-13-maplibre-rs-weekly/</guid><description>&lt;p>&lt;a href="https://github.com/maplibre/maplibre-rs">maplibre-rs&lt;/a> is an upcoming and cross-platform vector map renderer written in Rust. If you want to get in touch with the developers visit the &lt;a href="https://matrix.to/#/#mapr:matrix.org">#maplibre:matrix.org&lt;/a> chat or join the MapLibre (#maplibre and #maplibre-rs) community within the OpenStreetMap Slack. You can get an invite &lt;a href="https://slack.openstreetmap.us">here&lt;/a>.&lt;/p></description></item><item><title>Steering Committee Notes May</title><link>https://maplibre.org/news/2022-05-11-steering-committee-notes/</link><pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-05-11-steering-committee-notes/</guid><description>&lt;p>Steering committee meeting notes available
-&lt;a href="https://github.com/maplibre/maplibre/discussions/28">here&lt;/a>.
-Terrain3D can be merged now :) Thanks Max and everyone at Toursprung for their contributions!&lt;/p></description></item><item><title>maplibre-rs weekly</title><link>https://maplibre.org/news/2022-05-06-maplibre-rs-weekly/</link><pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-05-06-maplibre-rs-weekly/</guid><description>&lt;p>&lt;a href="https://github.com/maplibre/maplibre-rs">maplibre-rs&lt;/a> is an upcoming and cross-platform vector map renderer written in Rust. If you want to get in touch with the developers visit the &lt;a href="https://matrix.to/#/#mapr:matrix.org">#maplibre:matrix.org&lt;/a> chat or our Slack at &lt;a href="https://osmus.slack.com/">osmus.slack.com&lt;/a>.&lt;/p>
-
-&lt;h2 id="-news">📰 News &lt;a class="heading-link" href="#-news">&lt;/a>&lt;/h2>
-&lt;p>About one month ago, the MapLibre organisation started to host the maplibre-rs project (formerly known as mapr). I was happy about the opportunity and the support from the Geo community. It seems like I was not the first with the idea of a map rendering engine in Rust. In the discussion &lt;a href="https://github.com/maplibre/maplibre-rs/discussions/18">#18&lt;/a> a lot of people showed what they have been working on in the past.
-The maplibre-rs project is the place where we can bundle our efforts to create a new, unique and fun rendering engine.&lt;/p></description></item><item><title>Steering Committee Notes April</title><link>https://maplibre.org/news/2022-04-06-steering-committee-notes/</link><pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-04-06-steering-committee-notes/</guid><description>&lt;p>Steering committee meeting notes available
-&lt;a href="https://github.com/maplibre/maplibre/discussions/15">here&lt;/a>.
-Terrain 3D might be a matter of days or weeks only until we can merge and make
-a pre-release.&lt;/p></description></item><item><title>Steering Committee Notes March</title><link>https://maplibre.org/news/2022-03-09-steering-committee-notes/</link><pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-03-09-steering-committee-notes/</guid><description>&lt;p>Steering committee meeting notes available &lt;a href="https://github.com/maplibre/maplibre/discussions/14">here&lt;/a>.&lt;/p></description></item><item><title>Steering Committee Notes February</title><link>https://maplibre.org/news/2022-02-09-steering-committee-notes/</link><pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2022-02-09-steering-committee-notes/</guid><description>&lt;p>Steering committee meeting notes available
-&lt;a href="https://github.com/maplibre/maplibre/discussions/9">here&lt;/a>. Terrain
-3D is coming soon. Thanks Max and everyone at &lt;a href="https://www.toursprung.com/en/">Toursprung&lt;/a>
-for contributing this
-new feature!&lt;/p></description></item><item><title>Steering Committee Notes November</title><link>https://maplibre.org/news/2021-11-10-steering-committee-notes/</link><pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2021-11-10-steering-committee-notes/</guid><description>&lt;p>Steering committee meeting notes available &lt;a href="https://github.com/maplibre/maplibre/discussions/3">here&lt;/a>.&lt;/p></description></item><item><title>Steering Committee Notes October</title><link>https://maplibre.org/news/2021-10-13-steering-committee-notes/</link><pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate><guid>https://maplibre.org/news/2021-10-13-steering-committee-notes/</guid><description>&lt;p>Steering committee meeting notes available &lt;a href="https://github.com/maplibre/maplibre/discussions/2">here&lt;/a>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MapLibre</title><description>The MapLibre Organization is an umbrella for open-source mapping libraries.</description><link>https://maplibre.org/</link><language>en-US</language><lastBuildDate>Fri, 01 Aug 2025 12:14:30 GMT</lastBuildDate><item><title>MapLibre Newsletter June 2025</title><link>https://maplibre.org/news/2025-07-02-maplibre-newsletter-june-2025/</link><guid isPermaLink="true">https://maplibre.org/news/2025-07-02-maplibre-newsletter-june-2025/</guid><pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the June edition of the MapLibre newsletter!&lt;/p&gt;
+&lt;p&gt;This month’s roundup includes new feature updates in MapLibre Native and Web, along with milestones in projects like the SwiftUI DSL and Compose Playground. We’re also pleased to share that the &lt;a href=&quot;https://github.com/maplibre/workshop&quot;&gt;MapLibre Workshop Kit&lt;/a&gt; now supports GitHub Codespaces, making it easier to get started without any local setup which means you can generate and serve tiles directly on cloud.&lt;/p&gt;
+&lt;p&gt;We’re grateful for the continued support of all our sponsors and contributors who make this work possible. In this edition we would specially like to highlight the renewed sponsorship support from &lt;a href=&quot;https://mapme.com/&quot;&gt;Mapme&lt;/a&gt; 💙&lt;/p&gt;
+&lt;div style=&quot;background-color:white;padding:2rem;border:10px solid #cfd8dc;border-radius:0;margin-bottom:3rem;display:flex;justify-content:center;align-items:center;gap:2rem;flex-wrap:nowrap;overflow:hidden;flex-direction:column&quot;&gt;&lt;div style=&quot;display:flex;justify-content:center;align-items:center;gap:2rem;flex-wrap:nowrap;width:100%&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/maplibre-logo-for-light-bg.CSR25x_s_12bOIg.svg&quot; alt=&quot;MapLibre logo&quot; style=&quot;width:40%;max-width:300px;height:auto;object-fit:contain&quot; width=&quot;1354&quot; height=&quot;317&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/mapme-logo.BAmpXmZG_Z2jktND.svg&quot; alt=&quot;Mierune logo&quot; style=&quot;width:40%;max-width:330px;height:auto;object-fit:contain&quot; width=&quot;399&quot; height=&quot;105&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:1rem;font-size:1rem;text-align:center;color:#263238;font-style:italic&quot;&gt;&lt;p&gt;Thanks to Mapme for their continued support (2024–2025) 🤝&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;-maplibre-native&quot;&gt;📱 MapLibre Native&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Releases this month&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre iOS: &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.15.0&quot;&gt;6.15.0&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.16.0&quot;&gt;6.16.0&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;MapLibre Android: &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.10.0&quot;&gt;11.10.0&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.10.1&quot;&gt;11.10.1&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.10.2&quot;&gt;11.10.2&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.10.3&quot;&gt;11.10.3&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.11.0&quot;&gt;11.11.0&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Refer to the changelog and the linked PRs in the changelog for the details, but here are some highlights from this month’s releases.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;We now have &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/2958&quot;&gt;level-of-detail (LOD) controls&lt;/a&gt; available. This functionality is especially useful for navigation use-cases where the map is tilted. To avoid overloading the system you can use the LOD controls to use tiles with a lower zoom level for areas that are further in the distance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have also added the ability to toggle a &lt;a href=&quot;https://maplibre.org/maplibre-native/ios/latest/documentation/maplibre-native-for-ios/renderingstatisticshud/&quot;&gt;rendering statistics HUD&lt;/a&gt;. This is especially useful for users of MapLibre Native on embedded systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/rendering-stats.D_pxidtk_Ximjt.webp&quot; style=&quot;max-width:300px;max-height:600px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Rendering statistics HUD&quot; width=&quot;927&quot; height=&quot;1822&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;p style=&quot;font-size:0.9rem;color:#555;margin-top:8px;font-style:italic&quot;&gt;&lt;em&gt;Rendering statistics HUD&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MapLibre iOS 6.15.0 has support for defining plugin layers as described in &lt;a href=&quot;https://maplibre.org/news/2025-06-02-maplibre-newsletter-may-2025/&quot;&gt;last month’s newsletter&lt;/a&gt;. See &lt;a href=&quot;https://maplibre.org/maplibre-native/ios/latest/documentation/maplibre-native-for-ios/pluginlayers&quot;&gt;this page in the iOS documentation&lt;/a&gt; for more information on what is currently possible and how to create your own plugin layers. There is a &lt;a href=&quot;https://github.com/maplibre/maplibre-native/issues/3593&quot;&gt;tracking issue&lt;/a&gt; to bring plugin layers to Android too. We are looking forward to see what plugins are developed by the community.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We fixed a dangling reference bug on Android in &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3522&quot;&gt;#3522&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3541&quot;&gt;#3541&lt;/a&gt;. Thanks to the engineers from ExpressVPN who brought this issue to our attention and were quick to provide feedback to our fix.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;In Development&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We are developing a long running test for both &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3512&quot;&gt;Android&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3592&quot;&gt;iOS&lt;/a&gt;. This test is intended to ensure that MapLibre Native remains stable when running for very long periods of time (72 hours+). After a vote by the developers, this ‘very long running test’ is now officially called &lt;strong&gt;Desert Bus&lt;/strong&gt;, named after a game from the 90’s where you had to drive a bus from Arizona to Nevada (an exciting 8 hour playthrough can be found on &lt;a href=&quot;https://youtu.be/2LtiHla1dNg&quot;&gt;YouTube&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/desert-bus.BZ1_ugzY_2dDExk.webp&quot; style=&quot;max-width:400px;max-height:400px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Screenshot from Desert Bus&quot; width=&quot;640&quot; height=&quot;480&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;p style=&quot;font-size:0.9rem;color:#555;margin-top:8px;font-style:italic&quot;&gt;&lt;em&gt;Screenshot from Desert Bus (the game, not our test)&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;There is an open &lt;a href=&quot;https://github.com/maplibre/maplibre-style-spec/pull/1204&quot;&gt;style spec proposal&lt;/a&gt; for how to define font faces in MapLibre style. Access to font files is needed for rendering complex scripts. The style spec extension is the last hurdle before the &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/1439&quot;&gt;PR that intergrates Harfbuzz in MapLibre Native&lt;/a&gt; can be brought to the finish line.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;-maplibre-web&quot;&gt;🌐 MapLibre Web&lt;/h2&gt;
+&lt;p&gt;We have released &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.6.0&quot;&gt;version 5.6.0&lt;/a&gt; this month which includes two great features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://maplibre.org/maplibre-style-spec/state/&quot;&gt;&lt;strong&gt;Global State&lt;/strong&gt;&lt;/a&gt;: This feature lets you define the equivalent of global variables in the style JSON and use them throughout the style for things like multilingual support &amp;amp; color theming. This valuable feature addition was contributed by TomTom. Thanks!!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Color relief layer&lt;/strong&gt;: The new &lt;code&gt;color-relief&lt;/code&gt; layer will allow to define coloring of the map according to &lt;a href=&quot;https://maplibre.org/maplibre-style-spec/expressions/#color-relief&quot;&gt;elevation&lt;/a&gt; as can be seen in the image below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/color-relief.BsxPkPTC_194Rtc.webp&quot; style=&quot;max-width:400px;max-height:800px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Color relief layer GL JS&quot; width=&quot;620&quot; height=&quot;550&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;p style=&quot;font-size:0.9rem;color:#555;margin-top:8px;font-style:italic&quot;&gt;&lt;em&gt;Color relief layer GL JS&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Besides the above nice additions there were some bug fixes contributed.
+We would like once more to thank all the people who devote time to contribute to this project. Without you, it would’ve not been where it is today!&lt;/p&gt;
+&lt;p&gt;🎉 We’ve also been nominated to “project of the week” by PullFlow as can be read here on &lt;a href=&quot;https://www.linkedin.com/posts/pullflow_developerexperience-opensource-webmapping-activity-7339305562985086976-tuR3&quot;&gt;their LinkedIn post.&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;-maplibre-swiftui-dsl&quot;&gt;🧑‍💻 MapLibre SwiftUI DSL&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&quot;https://github.com/maplibre/swiftui-dsl&quot;&gt;SwiftUI DSL&lt;/a&gt; continues to support more of the underlying style features from MapLibre Native, directly from SwiftUI. Over the last month we’ve merged the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for &lt;a href=&quot;https://github.com/maplibre/swiftui-dsl/pull/94&quot;&gt;&lt;code&gt;lineDashPattern&lt;/code&gt; on &lt;code&gt;LineStyleLayer&lt;/code&gt;&lt;/a&gt;. This lets you customize the appearance of polylines directly from SwiftUI code (including via reactive bindings!).&lt;/li&gt;
+&lt;li&gt;Support for &lt;a href=&quot;https://github.com/maplibre/swiftui-dsl/pull/93&quot;&gt;new releases of SwiftSyntax&lt;/a&gt; (the library that Apple released to enable macros, which are used heavily in the library).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both PRs came from first-time contributors, which is exciting! If you’re using MapLibre with SwiftUI, check it out. And if you’re missing a particular feature, adding it just might be easier than you think.&lt;/p&gt;
+&lt;h2 id=&quot;-maplibre-compose-playground&quot;&gt;📦 MapLibre Compose Playground&lt;/h2&gt;
+&lt;p&gt;The MapLibre Compose Playground, one of several community projects integrating MapLibre Native with Jetpack Compose, has reached a new milestone: &lt;a href=&quot;https://github.com/Rallista/maplibre-compose-playground/releases/tag/1.0.0&quot;&gt;a 1.0.0 release&lt;/a&gt; 🎉&lt;/p&gt;
+&lt;p&gt;The milestone is a reflection that the library is now stable and being used in “real” apps. The maintainers are also happy to announce that the library now targets MapLibre Android’s 11.x branch. Previously there were a few edge cases which mostly manifested on emulators, but these have now been resolved (hat tip to the MapLibre Native team!).&lt;/p&gt;
+&lt;h2 id=&quot;-meet-us-at-foss4g-europe&quot;&gt;👥 Meet Us at FOSS4G Europe!&lt;/h2&gt;
+&lt;p&gt;The MapLibre team will be at &lt;a href=&quot;https://2025.europe.foss4g.org/&quot;&gt;FOSS4G Europe&lt;/a&gt; this month in Mostar. If you’re attending, stop by, and let’s talk maps!&lt;/p&gt;
+&lt;p&gt;🗓️ Dates: July 14-20, 2025 &lt;br&gt;
+📍 Location: &lt;a href=&quot;https://www.openstreetmap.org/relation/8480923&quot;&gt;Mostar, Bosnia-Herzegovina&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;overflow-x: auto;&quot;&gt;&lt;table style=&quot;width: 100%; border-collapse: collapse; font-size: 0.95rem; min-width: 600px;&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;border-bottom: 1px solid #ccc; text-align: left; padding: 8px 12px;&quot;&gt;&lt;p&gt;Talk/Workshop&lt;/p&gt;&lt;/th&gt;&lt;th style=&quot;border-bottom: 1px solid #ccc; text-align: left; padding: 8px 12px; min-width: 90px;&quot;&gt;&lt;p&gt;Date&lt;/p&gt;&lt;/th&gt;&lt;th style=&quot;border-bottom: 1px solid #ccc; text-align: left; padding: 8px 12px;&quot;&gt;&lt;p&gt;Time (Europe/Sarajevo)&lt;/p&gt;&lt;/th&gt;&lt;th style=&quot;border-bottom: 1px solid #ccc; text-align: left; padding: 8px 12px;&quot;&gt;&lt;p&gt;Location&lt;/p&gt;&lt;/th&gt;&lt;th style=&quot;border-bottom: 1px solid #ccc; text-align: left; padding: 8px 12px;&quot;&gt;&lt;p&gt;Presenter&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;&lt;a href=&quot;https://talks.osgeo.org/foss4g-europe-2025-workshops/talk/M9888F/&quot;&gt;&lt;p&gt;Tile serving with MapLibre/Martin/Planetiler — base and overlays
+(Workshop)&lt;/p&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px; min-width: 90px;&quot;&gt;Jul 14&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;14:00–18:00&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;PL14&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;Yuri Astrakhan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;&lt;a href=&quot;https://talks.osgeo.org/foss4g-europe-2025/talk/G7WVWY/&quot;&gt;&lt;p&gt;MapLibre projects, in one status update&lt;/p&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px; min-width: 90px;&quot;&gt;Jul 16&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;13:30–14:00&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;EL11&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;Yuri Astrakhan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;&lt;a href=&quot;https://talks.osgeo.org/foss4g-europe-2025/talk/989LUY/&quot;&gt;&lt;p&gt;Serverless Rasters on the Web: The MapLibre COG Protocol extension&lt;/p&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px; min-width: 90px;&quot;&gt;Jul 16&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;16:00–16:30&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;CA01&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;Marti Pericay, Oscar Fonts&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;&lt;a href=&quot;https://talks.osgeo.org/foss4g-europe-2025/talk/WMYSPU/&quot;&gt;&lt;p&gt;Scaling FOSS Development and Decisionmaking feat MapLibre Native&lt;/p&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px; min-width: 90px;&quot;&gt;Jul 17&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;11:30–12:00&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;SA02&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;Bart Louwers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;&lt;a href=&quot;https://talks.osgeo.org/foss4g-europe-2025/talk/UTUW8Z/&quot;&gt;&lt;p&gt;maplibre-gl-terradraw — new drawing plugin for maplibre-gl-js&lt;/p&gt;&lt;/a&gt;&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px; min-width: 90px;&quot;&gt;Jul 18&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;14:30–15:00&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;CA01&lt;/td&gt;&lt;td style=&quot;padding: 8px 12px;&quot;&gt;Jin Igarashi&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&quot;️-monthly-meetings&quot;&gt;🗓️ Monthly meetings&lt;/h2&gt;
+&lt;p&gt;We continue our regular community calls on the &lt;em&gt;&lt;strong&gt;second Wednesday&lt;/strong&gt;&lt;/em&gt; of each month, with an additional session on the last Wednesday to better accommodate Asia/Oceania time zones.&lt;/p&gt;
+&lt;p&gt;Upcoming Calls&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: July 09, 2025 – 4:00–5:00 PM UTC&lt;/li&gt;
+&lt;li&gt;MapLibre Native: July 09, 2025 – 5:00–6:00 PM UTC&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: July 09, 2025 – 6:00–7:00 PM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🌏 MapLibre Eastern Call&lt;/p&gt;
+&lt;p&gt;Held on the last Wednesday of the month at an Asia/Oceania-friendly hour:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;July 30, 2025 – 9:00–10:00 AM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔗 &lt;a href=&quot;https://notime.zone/OUDtdgeUfJKXH&quot;&gt;View meeting times in your local timezone&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All calls are open to everyone. Zoom links are shared in the MapLibre Slack.
+Not yet a member? Request an invite via the &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;OpenStreetMap US Slack&lt;/a&gt;.
+We’d love to see you there!&lt;/p&gt;</content:encoded><author>Bart Louwers, Harel Mazor, Yuri Astrakhan, Ian Wagner and Ramya Ragupathy</author></item><item><title>MapLibre Newsletter May 2025</title><link>https://maplibre.org/news/2025-06-02-maplibre-newsletter-may-2025/</link><guid isPermaLink="true">https://maplibre.org/news/2025-06-02-maplibre-newsletter-may-2025/</guid><pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the May edition of the MapLibre newsletter!&lt;/p&gt;
+&lt;p&gt;This month’s updates range from seamless Cloud Optimized GeoTIFF support in GL JS to fresh releases for Martin Tile Server and native SDKs, and the addition of a new team member.&lt;/p&gt;
+&lt;p&gt;A special thanks to &lt;a href=&quot;https://www.mierune.co.jp/&quot;&gt;Mierune&lt;/a&gt; for renewing their sponsorship for 2025! Now in its fourth consecutive year, their support has played a vital role in sustaining MapLibre’s growth and development.&lt;/p&gt;
+&lt;div style=&quot;background-color:white;padding:2rem;border:10px solid #cfd8dc;border-radius:0;margin-bottom:3rem;display:flex;justify-content:center;align-items:center;gap:2rem;flex-wrap:nowrap;overflow:hidden;flex-direction:column&quot;&gt;&lt;div style=&quot;display:flex;justify-content:center;align-items:center;gap:2rem;flex-wrap:nowrap;width:100%&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/maplibre-logo-for-light-bg.CSR25x_s_12bOIg.svg&quot; alt=&quot;MapLibre logo&quot; style=&quot;width:40%;max-width:300px;height:auto;object-fit:contain&quot; width=&quot;1354&quot; height=&quot;317&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/mierune-logo.CUcO-raY_V4zpL.svg&quot; alt=&quot;Mierune logo&quot; style=&quot;width:40%;max-width:330px;height:auto;object-fit:contain&quot; width=&quot;269&quot; height=&quot;85&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:1rem;font-size:1rem;text-align:center;color:#263238;font-style:italic&quot;&gt;&lt;p&gt;Celebrating four amazing years of support from Mierune (2022–2025) 🙌&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;We’ve also published our &lt;a href=&quot;about/reports/Financial-Report-Q1-2025.pdf&quot; target=&quot;_blank&quot;&gt;Q1 2025 Financial Report&lt;/a&gt;, continuing our commitment to transparency and open governance.
+Read on to catch up on updates from last month and a glimpse of what’s ahead.&lt;/p&gt;
+&lt;h2 id=&quot;-maplibre-native&quot;&gt;📱 MapLibre Native&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Plugin layers&lt;/strong&gt; will allow users to register custom layers with custom style spec extensions. The &lt;a href=&quot;https://github.com/maplibre/maplibre-native/blob/main/design-proposals/2025-05-08-plugin-layers.md&quot;&gt;design proposal&lt;/a&gt; was merged this month, with the &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3430&quot;&gt;implementation PR&lt;/a&gt; nearing the finish line. Both are spearheaded by Malcolmn Toon working for HudHud who released their &lt;a href=&quot;https://apps.apple.com/us/app/hudhud-maps/id6477774492&quot;&gt;navigation app&lt;/a&gt; this month.&lt;/p&gt;
+&lt;p&gt;The first version will have some limitations. Since iOS is the main focus of HudHud right now, it is only available for iOS from the outset. In addition, the custom layers do not have access to sources i.e. the built-in machinery for loading data. You also need to interact with the low-level graphics API (e.g. Metal) directly, and cannot use Drawables which internal layers uses for (platform aspecific) rendering. Lastly, plugin layers cannot participate in things like label placement.&lt;/p&gt;
+&lt;p&gt;Refinements and further functionality can be added incrementally based on the needs of the community. Extendability is something that was often discussed the last few years, and it is great to see a functional and pragmatic implementation becoming reality. Malcolm shared a GLTF model loading plugin as an example of what a custom plugin layer could do.&lt;/p&gt;
+ 
+ 
+&lt;div style=&quot;display:flex;flex-direction:column;align-items:center;margin-top:1rem;margin-bottom:1rem&quot;&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/a6789d4e-7734-4f57-b41b-0c15b55e79d5&quot; alt=&quot;GLTF plugin demo&quot; style=&quot;width:40%;height:auto;max-height:550px;object-fit:contain&quot;&gt;&lt;div style=&quot;font-style:italic;font-size:0.95rem;text-align:center;margin-top:0.5rem;color:#444&quot;&gt;&lt;p&gt;GLTF model plugin, rendering the Arc de Triomphe in 3D. Satellite layer
+courtesy of MapTiler.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Action Journal for Debugging:&lt;/strong&gt; Thanks to Adrian Cojocaru, a new &lt;a href=&quot;https://github.com/maplibre/maplibre-native/commit/08eb760acdf88692139cc9d777ed95074662387e&quot;&gt;action journal&lt;/a&gt; was merged this month. This is a persistent log of actions the library took, sort of like a black box in a plane, which should help with investigating crashes that are hard to reproduce. Check out the documentation for &lt;a href=&quot;https://maplibre.org/maplibre-native/ios/latest/documentation/maplibre-native-for-ios/actionjournalexample&quot;&gt;iOS&lt;/a&gt; or &lt;a href=&quot;https://maplibre.org/maplibre-native/android/examples/observability/action-journal/&quot;&gt;Android&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dynamic Texture Atlas for Glyphs:&lt;/strong&gt; The library now uses a &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3198&quot;&gt;dynamic texture atlas&lt;/a&gt; for storing glyphs, thanks to Alex Cristici. This change has the potential to reduce memory usage, if you have some interesting real-world numbers to share, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/discussions/categories/show-and-tell&quot;&gt;we would love to know&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Goodbye legacy renderer:&lt;/strong&gt; Two years ago, the legacy OpenGL ES rendering architecture, was replaced with a &lt;a href=&quot;https://github.com/maplibre/maplibre-native/blob/main/design-proposals/2022-10-27-rendering-modularization.md&quot;&gt;modular&lt;/a&gt; one allowing multiple rendering backends. The code parts of the legacy renderer were stubbed out with &lt;code&gt;#ifdef&lt;/code&gt;s for a while, meaning it was still possible to make a build that used the legacy renderer. However, this old unused code was finally &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3384&quot;&gt;removed&lt;/a&gt; in April, with some more &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3469&quot;&gt;cleanup&lt;/a&gt; this month.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Releases this month:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre iOS: &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.13.0&quot;&gt;6.13.0&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.14.0&quot;&gt;6.14.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre Android: &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.8.8&quot;&gt;11.8.8&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.8.9&quot;&gt;11.8.9&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.9.0&quot;&gt;11.9.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;-maplibre-web&quot;&gt;🌐 MapLibre Web&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hillshade Rendering:&lt;/strong&gt; MapLibre GL JS &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.5.0&quot;&gt;v5.5.0&lt;/a&gt; was released this month, featuring support for multiple hillshade rendering methods. This will be a great addition for enhanced terrain visualisation. The release also includes several important bug fixes and performance refinements.&lt;/p&gt;
+&lt;div style=&quot;display:flex;justify-content:center;margin-top:1rem;margin-bottom:1rem&quot;&gt;&lt;img src=&quot;https://maplibre.org/maplibre-style-spec/assets/hillshade_methods.png&quot; alt=&quot;Hillshade rendering methods in MapLibre GL JS&quot; style=&quot;width:80%;height:auto&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;New Team Member:&lt;/strong&gt; We are also thrilled about &lt;a href=&quot;https://github.com/mwilsnd&quot; target=&quot;_blank&quot;&gt;Marc Wilson&lt;/a&gt; joining our team as our new Graphics Engineer 🎉! Marc brings deep expertise in rendering and graphics, and we’re excited to see the impact he’ll have on MapLibre GL JS and beyond.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cloud Optimized GeoTIFF(COG) support:&lt;/strong&gt; A new COG protocol extension by &lt;a href=&quot;https://github.com/geomatico&quot;&gt;@geomatico&lt;/a&gt; improves how raster data is loaded in MapLibre GL JS, with no server-side preprocessing required.&lt;/p&gt;
+&lt;p&gt;This &lt;a href=&quot;https://github.com/geomatico/maplibre-cog-protocol&quot;&gt;maplibre-cog-protocol&lt;/a&gt; library allows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Visualization of COGs directly in MapLibre GL JS, efficiently loading only the necessary tiles from large raster datasets.&lt;/li&gt;
+&lt;li&gt;It supports dynamic adjustments, such as color manipulation and band mixing directly on the browser.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://maplibre.org/maplibre-gl-js/docs/examples/add-cog/&quot;&gt;Official GL JS example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://labs.geomatico.es/maplibre-cog-protocol&quot;&gt;Live demos&lt;/a&gt; including RGB, NDVI, and a 12GB elevation model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display:flex;justify-content:center;margin-top:1rem;margin-bottom:2rem&quot;&gt;&lt;video src=&quot;https://github.com/user-attachments/assets/350dd072-43d7-4077-bfec-04db561988f4&quot; controls=&quot;&quot; autoPlay=&quot;&quot; muted=&quot;true&quot; loop=&quot;&quot; playsInline=&quot;&quot; style=&quot;width:80%;max-width:720px;border-radius:0.5rem;box-shadow:0 4px 12px rgba(0,0,0,0.1)&quot;&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;h2 id=&quot;-martin-tile-server&quot;&gt;🧱 Martin Tile Server&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/maplibre/martin/releases/tag/v0.17.0&quot;&gt;Martin v0.17.0&lt;/a&gt; was released in May, bringing several quality-of-life improvements, along with three new features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;S3 and S3-Compatible Storage Support for PMTiles:&lt;/strong&gt; PMTiles can now be served directly from S3 or any S3-compatible blob store, making cloud deployments simpler and more flexible.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved Caching with ETags:&lt;/strong&gt; Martin now includes &lt;code&gt;ETag&lt;/code&gt; headers and supports the &lt;code&gt;If-None-Match&lt;/code&gt; request header, enabling more efficient CDN-style caching. This potentially reduces bandwidth usage and improves performance, especially in low-connectivity environments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Configurable CORS Settings:&lt;/strong&gt; Developers can now define CORS headers directly in Martin, eliminating the need for external workarounds, thereby improving
+security and flexibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;-new-hosted-project&quot;&gt;🧩 New Hosted Project&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-compose&quot;&gt;MapLibre for Compose Multiplatform&lt;/a&gt; has officially been onboarded as a &lt;a href=&quot;https://github.com/maplibre/maplibre/issues/441&quot;&gt;hosted project&lt;/a&gt;, marking another step forward in expanding the MapLibre ecosystem.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MapLibre Compose is a Compose Multiplatform wrapper around the MapLibre SDKs for rendering interactive maps. You can use it to add maps to your Compose UIs across Android, iOS, Desktop, and Web.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;-meet-us-at-state-of-the-map-us&quot;&gt;👥 Meet Us at State of the Map US!&lt;/h2&gt;
+&lt;p&gt;The MapLibre team will be at &lt;a href=&quot;https://openstreetmap.us/events/state-of-the-map-us/2025/&quot;&gt;State of the Map US&lt;/a&gt; this month in Boston. If you’re attending, we’d love to connect. Come say hi, and let’s talk maps!&lt;/p&gt;
+&lt;p&gt;🗓️ Dates: June 19-21, 2025 &lt;br&gt;
+📍 Location: &lt;a href=&quot;https://www.openstreetmap.org/relation/2315704&quot;&gt;Boston, MA&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;️-monthly-meetings&quot;&gt;🗓️ Monthly meetings&lt;/h2&gt;
+&lt;p&gt;We continue our regular community calls on the &lt;em&gt;&lt;strong&gt;second Wednesday&lt;/strong&gt;&lt;/em&gt; of each month, with an additional session on the last Wednesday to better accommodate Asia/Oceania time zones.&lt;/p&gt;
+&lt;p&gt;Upcoming Calls&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: June 11, 2025 – 4:00–5:00 PM UTC&lt;/li&gt;
+&lt;li&gt;MapLibre Native: June 11, 2025 – 5:00–6:00 PM UTC&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: June 11, 2025 – 6:00–7:00 PM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🌏 MapLibre Eastern Call&lt;/p&gt;
+&lt;p&gt;Held on the last Wednesday of the month at an Asia/Oceania-friendly hour:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;June 25, 2025 – 9:00–10:00 AM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔗 &lt;a href=&quot;https://notime.zone/OS-7DlXOuSRSd&quot;&gt;View meeting times in your local timezone&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All calls are open to everyone. Zoom links are shared in the MapLibre Slack.
+Not yet a member? Request an invite via the &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;OpenStreetMap US Slack&lt;/a&gt;.
+We’d love to see you there!&lt;/p&gt;</content:encoded><author>Bart Louwers, Harel Mazor, Marti Pericay, Frank Elsinga and Ramya Ragupathy</author></item><item><title>MapLibre Newsletter April 2025</title><link>https://maplibre.org/news/2025-05-04-maplibre-newsletter-april-2025/</link><guid isPermaLink="true">https://maplibre.org/news/2025-05-04-maplibre-newsletter-april-2025/</guid><pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the April edition of the MapLibre Monthly!&lt;/p&gt;
+&lt;p&gt;We’re excited to share major updates across Native, GL JS, and Martin - ranging from performance optimizations to new extensibility features.
+And before we dive in, a heartfelt thanks to &lt;a href=&quot;https://www.komoot.com/&quot;&gt;Komoot&lt;/a&gt; for renewing their sponsorship!&lt;/p&gt;
+&lt;div style=&quot;background-color:white;padding:2rem;border:10px solid #cfd8dc;border-radius:0;margin-bottom:3rem;display:flex;justify-content:center;align-items:center;gap:2rem;flex-wrap:nowrap;overflow:hidden;flex-direction:column&quot;&gt;&lt;div style=&quot;display:flex;justify-content:center;align-items:center;gap:2rem;flex-wrap:nowrap;width:100%&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/maplibre-logo-for-light-bg.CSR25x_s_12bOIg.svg&quot; alt=&quot;MapLibre logo&quot; style=&quot;width:40%;max-width:300px;height:auto;object-fit:contain&quot; width=&quot;1354&quot; height=&quot;317&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/komoot-logo.CTu0kONk_ZX7xRK.svg&quot; alt=&quot;Komoot logo&quot; style=&quot;width:40%;max-width:330px;height:auto;object-fit:contain&quot; width=&quot;358&quot; height=&quot;108&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:1rem;font-size:1rem;text-align:center;color:#263238;font-style:italic&quot;&gt;&lt;p&gt;Komoot’s support as an official MapLibre sponsor - 2023, 2024 &amp;amp; 2025 💙&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;maplibre-native&quot;&gt;MapLibre Native&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Action Journal for Crash Debugging&lt;/strong&gt;: We are adding an ‘action journal’ to MapLibre Native. This is a &lt;strong&gt;persistent log of internal events&lt;/strong&gt;, written out as JSON files. You can use this as a sort of black box to get information what the library was doing when rare, difficult to reproduce crashes and bugs happen. Please check out &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3409&quot;&gt;the PR&lt;/a&gt; and tell us if this is useful. We expect this to be mostly used by mission-critical enterprise type applications, which tend to have extremely low acceptable crash rates.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Efficient Memory Management with Dynamic Texture Atlas&lt;/strong&gt;: Work on implementing a &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3198&quot;&gt;dynamic texture atlas&lt;/a&gt; is almost complete. Testing indicates that reduction in memory may be more significant than expected! This can also be useful when using MapLibre Native for server-side rendering. We are very interested to hear your findings on memory usage in production when releases containing this functionality are out.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Plugin Support for Custom Layers (WIP)&lt;/strong&gt;: There is a &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3430&quot;&gt;draft PR&lt;/a&gt; that adds plugin functionality to MapLibre Native, allowing &lt;strong&gt;custom layer types&lt;/strong&gt; to be added at runtime. Allowing the library to be extended more easily from the outside is something that has been talked about a long time. Although the PR in question is very much a work-in-progress, it is exciting to see some movement in this area which many users will be following with interest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Call for Accessibility Feedback&lt;/strong&gt;: We are interested in input from &lt;strong&gt;accessibility&lt;/strong&gt; experts or developers who developed accessible maps in the past. Do you have any ideas for MapLibre Native features or perhaps style spec additions that can benefit accessibility? If yes, then please &lt;a href=&quot;https://github.com/maplibre/maplibre-native/discussions/3439&quot;&gt;add to the discussion&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Releases this month:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre iOS &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.12.2&quot;&gt;6.12.2&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.12.3&quot;&gt;6.12.3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre Android &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.8.6&quot;&gt;11.8.6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre Node.js &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/node-v6.1.0&quot;&gt;6.1.0&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;web&quot;&gt;Web&lt;/h2&gt;
+&lt;p&gt;We released two versions this month:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.3.1&quot;&gt;v5.3.1&lt;/a&gt;: A minor update focused on bug fixes.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.4.0&quot;&gt;v5.4.0&lt;/a&gt;: A major release introducing Level of Detail (LOD) controls based on pitch and zoom levels, giving developers more flexibility in how data is rendered dynamically.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Looking ahead, map-state persistence and expanded hillshade options are in the pipeline, stay tuned! There’s also early progress on a plugin to support complicated scripting languages, a feature that’s been discussed in previous newsletter posts.&lt;/p&gt;
+&lt;p&gt;Be sure to explore the &lt;a href=&quot;https://github.com/maplibre/awesome-maplibre&quot;&gt;awesome-maplibre&lt;/a&gt; repository. It’s packed with creative tools, plugins, and use cases built by our amazing community!&lt;/p&gt;
+&lt;h2 id=&quot;martin-tile-server&quot;&gt;Martin Tile Server&lt;/h2&gt;
+&lt;p&gt;We’re actively shaping the roadmap for Martin v1.0 and would love your input!&lt;/p&gt;
+&lt;p&gt;A discussion is underway on what features or changes are needed before we consider a 1.0 release. If you have thoughts, suggestions, or feature requests, &lt;a href=&quot;https://github.com/maplibre/martin/discussions/1805&quot;&gt;please join the conversation&lt;/a&gt; and help guide the future of Martin.&lt;/p&gt;
+&lt;h2 id=&quot;-community-spotlight&quot;&gt;🌟 Community Spotlight&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://rutaton.zamora.gob.mx&quot;&gt;GTFS Visualization for Public Transport in Zamora, Mexico&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This project by &lt;a href=&quot;https://codeandomexico.org/&quot;&gt;Codeando México&lt;/a&gt; visualizes the public transport routes in Zamora using MapLibre + Svelte. It’s part of a crowdmapping initiative where local students helped digitize the city’s transit network using mobile phones.&lt;/p&gt;
+&lt;p&gt;Before this effort, the information wasn’t publicly available. Now, it’s accessible to both residents and organizations who can build on the data. A great example of civic tech and open mapping in action!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“It was super easy to get something done quickly using Svelte + MapLibre.”
+— Óscar Hernández, Tech Lead @ Codeando México&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;️-monthly-meetings&quot;&gt;🗓️ Monthly meetings&lt;/h2&gt;
+&lt;p&gt;We continue our regular community calls on the &lt;em&gt;&lt;strong&gt;second Wednesday&lt;/strong&gt;&lt;/em&gt; of each month, with an additional session on the last Wednesday to better accommodate Asia/Oceania time zones.&lt;/p&gt;
+&lt;p&gt;Upcoming May Calls&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: May 14, 2025 – 4:00–5:00 PM UTC&lt;/li&gt;
+&lt;li&gt;MapLibre Native: May 14, 2025 – 5:00–6:00 PM UTC&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: May 14, 2025 – 6:00–7:00 PM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🌏 MapLibre Eastern Call&lt;/p&gt;
+&lt;p&gt;Held on the last Wednesday of the month at an Asia/Oceania-friendly hour:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;May 28, 2025 – 9:00–10:00 AM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔗 &lt;a href=&quot;https://notime.zone/OPU6n2O-ij-eN&quot;&gt;View meeting times in your local timezone&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All calls are open to everyone. Zoom links are shared in the MapLibre Slack.
+Not yet a member? Request an invite via the &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;OpenStreetMap US Slack&lt;/a&gt;.
+We’d love to see you there!&lt;/p&gt;</content:encoded><author>Bart Louwers, Harel Mazor, Frank Elsinga and Ramya Ragupathy</author></item><item><title>MapLibre Newsletter March 2025</title><link>https://maplibre.org/news/2025-04-04-maplibre-newsletter-march-2025/</link><guid isPermaLink="true">https://maplibre.org/news/2025-04-04-maplibre-newsletter-march-2025/</guid><pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;March has been a busy month across the MapLibre ecosystem, with new releases, major community contributions, and powerful features in the works. We’re also incredibly grateful that &lt;a href=&quot;https://maplibre.org/news/2025-03-31-maptiler-announcement/&quot;&gt;MapTiler has joined as a Silver Sponsor of the MapLibre project&lt;/a&gt;. MapTiler has been a long-time supporter of open-source mapping, and their sponsorship helps ensure the sustainability and growth of our community.&lt;/p&gt;
+&lt;p&gt;With that note, let’s dive into this month’s highlights.&lt;/p&gt;
+&lt;h2 id=&quot;maplibre-native&quot;&gt;MapLibre Native&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Grab_Holdings&quot;&gt;Grab&lt;/a&gt; is &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pulls?q=author%3Agrab-liyanjin&quot;&gt;contributing&lt;/a&gt; to MapLibre Native. While they currently use an internal fork, they plan to adopt MapLibre Native later this year. We’re looking forward to collaborating with them and supporting their onboarding process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MapLibre iOS &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.12.1&quot;&gt;6.12.1&lt;/a&gt; and MapLibre Android &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.8.3&quot;&gt;11.8.3&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.8.4&quot;&gt;11.8.4&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.8.5&quot;&gt;11.8.5&lt;/a&gt; were released.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have started publishing the core as a &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases?q=core-&amp;expanded=true&quot;&gt;static library&lt;/a&gt; to support the &lt;a href=&quot;https://crates.io/crates/maplibre_native&quot;&gt;Rust wrapper&lt;/a&gt; currently in development. (Note that there are no API stability guarantees right now.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some neat improvements are in the pipeline for MapLibre Native, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/2958&quot;&gt;Level-of-detail controls&lt;/a&gt;, to limit tile loading in scenarios like navigation.&lt;/li&gt;
+&lt;li&gt;A toggleable &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3322&quot;&gt;rendering HUD&lt;/a&gt; for quick access to performance stats, especially useful on embedded hardware where getting these numbers through other means may be difficult.&lt;/li&gt;
+&lt;li&gt;Support for &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3246&quot;&gt;MapLibre Tiles&lt;/a&gt;, offering better performance, improved battery life, and reduced bandwidth usage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/hud-screenshot.BItf9igF_hIXxb.webp&quot; style=&quot;max-width:300px;max-height:600px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Rendering HUD screenshot&quot; width=&quot;1206&quot; height=&quot;2622&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;p style=&quot;font-size:0.9rem;color:#555;margin-top:8px;font-style:italic&quot;&gt;&lt;em&gt;Rendering HUD screenshot&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;h2 id=&quot;web&quot;&gt;Web&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;We released two minor versions of MapLibre GL JS this month: &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.2.0&quot;&gt;v5.2.0&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.3.0&quot;&gt;v5.3.0&lt;/a&gt;, both focused on bug fixes and small enhancements.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Work is underway on an exciting feature: supporting fonts via system fonts, as an alternative to the glyphs field. This addition will make it easier for style authors to design and theme maps more intuitively. Big thanks to all the contributors for helping push this improvement forward - stay tuned for what’s next!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;maplibre-style-spec&quot;&gt;MapLibre Style Spec&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A change to the style spec was &lt;a href=&quot;https://github.com/maplibre/maplibre-style-spec/pull/1068&quot;&gt;adopted&lt;/a&gt; that makes the &lt;code&gt;glyphs&lt;/code&gt; no longer be required, even when using text in maps. You can track support by MapLibre GL JS and MapLibre Native in the &lt;a href=&quot;https://maplibre.org/maplibre-style-spec/glyphs/&quot;&gt;documentation&lt;/a&gt; like all style spec changes and additions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A change to the MapLibre Style Spec that introduces a global map state is &lt;a href=&quot;https://github.com/maplibre/maplibre-style-spec/pull/1044&quot;&gt;being discussed&lt;/a&gt;. Join the conversation and share your thoughts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;martin-tile-server&quot;&gt;Martin Tile Server&lt;/h2&gt;
+&lt;p&gt;Martin &lt;a href=&quot;https://github.com/maplibre/martin/releases/tag/v0.16.0&quot;&gt;v0.16&lt;/a&gt; has been released, now supporting style sheet serving and nemerous minor improvements and bug fixes.&lt;/p&gt;
+&lt;h2 id=&quot;monthly-meetings&quot;&gt;Monthly meetings&lt;/h2&gt;
+&lt;p&gt;We’re continuing our practice of meeting on the second Wednesday of each month, and now we’re adding an additional session on the last Wednesday to accommodate eastern-friendly time zones.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: &lt;strong&gt;April 9, 2025 4:00–5:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre Native: &lt;strong&gt;April 9, 2025 5:00–6:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: &lt;strong&gt;April 9, 2025 - 6:00–7:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;maplibre-eastern-call-held-on-the-last-wednesday-of-the-month-at-an-asiaoceania-friendly-time&quot;&gt;MapLibre Eastern Call (held on the last Wednesday of the month at an Asia/Oceania-friendly time)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;April 30, 2025 - 9:00–10:00 AM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;View meeting times in your time zone: &lt;a href=&quot;https://notime.zone/ONFoqtmyHWCO5&quot;&gt;https://notime.zone/ONFoqtmyHWCO5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All calls are open to everyone. Zoom links can be found in our MapLibre Slack. If you’re not a member, request an invite at &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;OpenStreetMap US Slack community&lt;/a&gt;. We look forward to seeing you!&lt;/p&gt;</content:encoded><author>Bart Louwers, Harel Mazor and Ramya Ragupathy</author></item><item><title>MapTiler becomes a MapLibre Silver Sponsor</title><link>https://maplibre.org/news/2025-03-31-maptiler-announcement/</link><guid isPermaLink="true">https://maplibre.org/news/2025-03-31-maptiler-announcement/</guid><pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We are excited to announce that MapTiler has joined the MapLibre project as a Silver Sponsor!&lt;/p&gt;
+&lt;div style=&quot;background-color:white;padding:2rem;border:10px solid #cfd8dc;border-radius:0;margin-bottom:3rem;display:flex;justify-content:center;align-items:center;gap:2rem;flex-wrap:nowrap;overflow:hidden&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/maplibre-logo-for-light-bg.CSR25x_s_12bOIg.svg&quot; alt=&quot;MapLibre logo&quot; style=&quot;width:40%;max-width:300px;height:auto;object-fit:contain&quot; width=&quot;1354&quot; height=&quot;317&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/maptiler-logo.Ci3qDT4M_27eDL6.svg&quot; alt=&quot;MapTiler logo&quot; style=&quot;width:40%;max-width:330px;height:auto;object-fit:contain&quot; width=&quot;812&quot; height=&quot;212&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.maptiler.com/&quot;&gt;MapTiler&lt;/a&gt; is a global provider of mapping services and software tools, recognized for their strong commitment to the open-source mapping ecosystem. They are the original creators and primary maintainers of the OpenMapTiles project, and actively contribute to MapLibre, OSMNames, and several other open-source initiatives.&lt;/p&gt;
+&lt;p&gt;MapTiler has played a significant role in the early development of MapLibre, contributing to the initial MapLibre Native SDKs, designing the logo and website, supporting fundraising, legal, operational and marketing efforts.
+Their contributions span both technical development and community-building.&lt;/p&gt;
+&lt;p&gt;By becoming a Silver Sponsor, MapTiler continues its strong commitment to open-source geospatial software and to the growing MapLibre ecosystem.&lt;/p&gt;
+&lt;p&gt;We’re grateful for MapTiler’s continued support and look forward to ongoing collaboration!&lt;/p&gt;</content:encoded><author>Ramya Ragupathy</author></item><item><title>MapLibre Newsletter February 2025</title><link>https://maplibre.org/news/2025-03-03-maplibre-newsletter-february-2025/</link><guid isPermaLink="true">https://maplibre.org/news/2025-03-03-maplibre-newsletter-february-2025/</guid><pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We’re excited to share key updates across MapLibre Native, GL JS, Flutter, and the MapLibre Tile Specification (MLT), along with details on upcoming community meetings.&lt;/p&gt;
+&lt;p&gt;A huge thank you to everyone who supports MapLibre through &lt;a href=&quot;https://github.com/sponsors/maplibre&quot;&gt;GitHub Sponsors&lt;/a&gt; and &lt;a href=&quot;https://opencollective.com/maplibre&quot;&gt;OpenCollective&lt;/a&gt; platforms 🎉. Through these channels, we received $4,644.23 in 2023, and in 2024, contributions grew by 24.3% to $5,772.77 USD. Your support is essential in sustaining and expanding our open-source ecosystem - we truly appreciate it!&lt;/p&gt;
+&lt;p&gt;We’ve also published the Q4 2024 Financial Report, providing insights into our funding and expenditures. You can read the full report &lt;a href=&quot;https://maplibre.org/about/reports/Financial-Report-Q4-2024.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With that note of gratitude, here’s the February 2025 round-up.&lt;/p&gt;
+&lt;h2 id=&quot;maplibre-native&quot;&gt;MapLibre Native&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Implementation of the new &lt;a href=&quot;https://github.com/maplibre/maplibre-tile-spec#maplibre-tiles-mlt&quot;&gt;MapLibre Tiles format&lt;/a&gt; is in full swing. There is a &lt;a href=&quot;https://github.com/maplibre/maplibre-tile-spec/pull/441&quot;&gt;PR in the &lt;code&gt;maplibre/maplibre-tile-spec&lt;/code&gt;&lt;/a&gt; repo with a C++ reader implementation and a &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3246&quot;&gt;draft PR&lt;/a&gt; for the intergration into MapLibre Native.&lt;/p&gt;
+&lt;p&gt;Even though development has only recently started, this proof-of-concept can already use MLTs (MapLibre Tiles) as a source alongside &lt;a href=&quot;https://github.com/mapbox/vector-tile-spec&quot;&gt;MVTs&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+ 
+&lt;div style=&quot;display:flex;justify-content:center;flex-direction:column;align-items:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/mlt-road-network-demo.DVhdTGWX_qgCVe.webp&quot; style=&quot;max-width:550px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Screenshot showing the road network in Europe from some demo MLTs based on Bing Maps data.&quot; width=&quot;2030&quot; height=&quot;1496&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;div style=&quot;font-size:0.9em;color:#BEBEBE;margin-top:8px;text-align:center&quot;&gt;&lt;p&gt;Screenshot showing the road network in Europe from some demo MLTs based on
+Bing Maps data.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.11.0&quot;&gt;MapLibre iOS 6.11.0&lt;/a&gt; is now available.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Custom Style Layers, allow drawing directly on the map using the Metal API with full Swift compatibility. Learn more in &lt;a href=&quot;https://maplibre.org/maplibre-native/ios/latest/documentation/maplibre-native-for-ios/customstylelayerexample&quot;&gt;this guide&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Looking ahead, the upcoming MapLibre iOS 6.12.0 release will expose some low-level events for better observability. More details can be found in &lt;a href=&quot;https://maplibre.org/maplibre-native/ios/latest/documentation/maplibre-native-for-ios/observerexample&quot;&gt;this article&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Custom Drawable Layers allow drawing on the map in a platform-independent way. Currently C++ is required to implement these layers. This month &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3210&quot;&gt;a significant PR&lt;/a&gt; was merged, introducing several imporvements, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;enhanced functionality and improvements to custom drawable layer,&lt;/li&gt;
+&lt;li&gt;support for uploading 3D geometries, expanding rendering possibilities.&lt;/li&gt;
+&lt;/ul&gt;
+ 
+&lt;div style=&quot;display:flex;justify-content:center;flex-direction:column;align-items:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/custom-draw-layer-demo.D5oItG_H_Z29wbl0.webp&quot; style=&quot;max-width:550px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Custom Drawable Layer demo available in the GLFW app if you press &apos;V&apos;.&quot; width=&quot;2048&quot; height=&quot;1592&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;div style=&quot;font-size:0.9em;color:#BEBEBE;margin-top:8px;text-align:center&quot;&gt;&lt;p&gt;Custom Drawable Layer demo available in the GLFW app if you press ‘V’.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/frankkienl&quot;&gt;@frankkienl&lt;/a&gt; from Flitsmeister has created a sample app demonstrating how to integrate MapLibre with Android Auto (and Automotive). This is a fantastic starting point for developers looking to explore automotive applications. Check out the repository here: &lt;a href=&quot;https://github.com/maplibre/MapLibre-Android-Auto-Sample&quot;&gt;MapLibre Android Auto Sample&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;web&quot;&gt;Web&lt;/h2&gt;
+&lt;p&gt;February was a shorter month, but we still managed to roll out &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.1.1&quot;&gt;MapLibre GL JS 5.1.1&lt;/a&gt; with key improvemens.&lt;/p&gt;
+&lt;p&gt;One notable highlight is the powerful &lt;code&gt;addProtocol&lt;/code&gt; feature which enabled the release of a new plugin for loading arbitrary fonts using tinySDF:Check out &lt;a href=&quot;https://www.npmjs.com/package/maplibre-local-glyphs&quot;&gt;maplibre-local-glyphs&lt;/a&gt;, developed by &lt;a href=&quot;https://github.com/spatialillusions&quot;&gt;@spatialillusions&lt;/a&gt; - a big thanks to their contribution!
+This will hopefully pave the way to other font functionality that’s coming in the near future. Stay tuned for further developments 🗺️.&lt;/p&gt;
+&lt;h2 id=&quot;maplibre-flutter&quot;&gt;MapLibre Flutter&lt;/h2&gt;
+&lt;p&gt;Version &lt;code&gt;0.2.1&lt;/code&gt; of &lt;a href=&quot;https://github.com/josxha/flutter-maplibre&quot;&gt;flutter-maplibre&lt;/a&gt; got released this month. Key feature of this release is the possibility of synchonous controller calls on android due to the exciting release of &lt;a href=&quot;https://medium.com/flutter/whats-new-in-flutter-3-29-f90c380c2317&quot;&gt;Flutter 3.29&lt;/a&gt;. This is a big milestone to seamlessly display and position Flutter widgets on top of the map. Check out the &lt;a href=&quot;https://github.com/josxha/flutter-maplibre/blob/main/CHANGELOG.md#021&quot;&gt;changelog&lt;/a&gt; for the full list of improvements.&lt;/p&gt;
+&lt;p&gt;Work is also &lt;a href=&quot;https://github.com/josxha/flutter-maplibre/issues/26&quot;&gt;progressing on iOS support&lt;/a&gt;, with completion expected by March 2025. Stay tuned!&lt;/p&gt;
+&lt;h4 id=&quot;feature-previews&quot;&gt;Feature Previews&lt;/h4&gt;
+&lt;div style=&quot;display:flex;justify-content:center;gap:20px;flex-wrap:wrap&quot;&gt;&lt;div style=&quot;text-align:center;max-width:48%&quot;&gt;&lt;video src=&quot;/_astro/flutter-preview.DxiH6DOk.mp4&quot; controls=&quot;&quot; style=&quot;width: 50%;&quot;&gt;&lt;/video&gt;&lt;div style=&quot;font-size:0.9em;color:#BEBEBE;margin-top:8px&quot;&gt;&lt;strong&gt;Flutter Widgets on Top of the Map View&lt;/strong&gt;&lt;br&gt;&lt;p&gt;Demo showcasing Flutter widgets rendered on top of the map view.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;max-width:48%&quot;&gt;&lt;video src=&quot;/_astro/ios-preview.BoKGkjxc.mp4&quot; controls=&quot;&quot; style=&quot;width: 50%;&quot;&gt;&lt;/video&gt;&lt;div style=&quot;font-size:0.9em;color:#BEBEBE;margin-top:8px&quot;&gt;&lt;strong&gt;iOS Support Preview&lt;/strong&gt;&lt;br&gt;&lt;p&gt;Preview of upcoming iOS support for flutter-maplibre.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;maplibre-tile-format-mlt&quot;&gt;MapLibre Tile Format (MLT)&lt;/h2&gt;
+&lt;p&gt;Exciting progress continues on the MapLibre Tile (MLT) format!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;C++ MLT Decoder Implementation:&lt;/strong&gt; As mentioned before, &lt;a href=&quot;http://github.com/TimSylvester&quot;&gt;@TimSylvester&lt;/a&gt; has been actively working on a C++ decoder implementation for MLT. Checkout the ongoing work in &lt;a href=&quot;https://github.com/maplibre/maplibre-tile-spec/pull/441&quot;&gt;this PR&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rust based FastPFOR algorithm:&lt;/strong&gt; &lt;a href=&quot;http://github.com/jjcfrancisco&quot;&gt;@jjcfrancisco&lt;/a&gt; and &lt;a href=&quot;http://github.com/nyurik&quot;&gt;@nyurik&lt;/a&gt; have published a &lt;a href=&quot;https://crates.io/crates/fastpfor&quot;&gt;Rust implementation&lt;/a&gt; of the FastPFOR algorithm - which serves as the foundation of the MLT format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A dedicated meeting for MLT development updates takes place every second Monday of the month at &lt;strong&gt;3:15 PM UTC&lt;/strong&gt;. The next meeting is scheduled for &lt;strong&gt;March 10, 2025&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;For ongoing updates, discussions, and collaboration, follow the &lt;strong&gt;&lt;em&gt;#maplibre-tile-format&lt;/em&gt;&lt;/strong&gt; Slack channel.&lt;/p&gt;
+&lt;h2 id=&quot;-community-spotlight-mapping-historical-new-york-with-vector-beeswarm-dot-density&quot;&gt;🌟 Community Spotlight: Mapping Historical New York with Vector Beeswarm Dot Density&lt;/h2&gt;
+&lt;p&gt;The team at Stamen has introduced a fascinating mapping project using &lt;a href=&quot;https://maplibre.org/maplibre-gl-js/docs/&quot;&gt;maplibre-gl-js&lt;/a&gt;, that visualizes historical New York using Vector Beeswarm Dot Density techniques. This approach beautifully showcases how data can be represented in a spatially meaningful and visually engaging way.&lt;/p&gt;
+&lt;p&gt;Read more about the project here: &lt;a href=&quot;https://stamen.com/vector-beeswarm-dot-density-with-mapping-historical-new-york/&quot;&gt;Vector Beeswarm Dot Density with Mapping Historical New York&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;display:flex;justify-content:center;flex-direction:column;align-items:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/stamen-ml.CAgJ0Afo_EL5oj.webp&quot; style=&quot;max-width:550px;max-height:550px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Animated demo of the Vector Beeswarm Dot Density map..&quot; width=&quot;1410&quot; height=&quot;595&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;div style=&quot;font-size:0.9em;color:#BEBEBE;margin-top:8px;text-align:center&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;📢 Have a cool MapLibre-powered project to share? &lt;a href=&quot;https://github.com/maplibre/maplibre.github.io/issues/291&quot;&gt;Let us know&lt;/a&gt; - we’d love to feature it in our next newsletter! A huge thank you to &lt;a href=&quot;https://www.linkedin.com/in/tobiasjordans/&quot;&gt;Tobias Jordans&lt;/a&gt; for inspiring this Community Spotlight section. We appreciate the idea and look forward to featuring more exciting projects from the community!&lt;/p&gt;
+&lt;h2 id=&quot;monthly-meetings&quot;&gt;Monthly meetings&lt;/h2&gt;
+&lt;p&gt;We’re continuing our tradition of meeting on the second Wednesday of each month, and now we’re adding an additional session on the last Wednesday to accommodate eastern-friendly time zones.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: &lt;strong&gt;March 12, 2025 5:00–6:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre Native: &lt;strong&gt;March 12, 2025 6:00–7:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: &lt;strong&gt;March 12, 2025 - 7:00–8:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;maplibre-eastern-call-held-on-the-last-wednesday-of-the-month-at-an-asiaoceania-friendly-time&quot;&gt;MapLibre Eastern Call (held on the last Wednesday of the month at an Asia/Oceania-friendly time)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;March 26, 2025 - 9:00–10:00 AM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;View meeting times in your time zone: &lt;a href=&quot;https://notime.zone/OKPWfUR_vx2eP&quot;&gt;https://notime.zone/OKPWfUR_vx2eP&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All calls are open to everyone. Zoom links can be found in our MapLibre Slack. If you’re not a member, request an invite at &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;OpenStreetMap US Slack community&lt;/a&gt;. We look forward to seeing you!&lt;/p&gt;</content:encoded><author>Bart Louwers, Yuri Astrakhan, Harel Mazor, Joscha Eckert and Ramya Ragupathy</author></item><item><title>MapLibre Newsletter January 2025</title><link>https://maplibre.org/news/2025-02-03-maplibre-newsletter-january-2025/</link><guid isPermaLink="true">https://maplibre.org/news/2025-02-03-maplibre-newsletter-january-2025/</guid><pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As we step into 2025, we want to start with a heartfelt thank you to AWS for renewing their sponsorship for MapLibre. Their ongoing commitment since 2022 has played a vital role in the growth, and strengthening of our global community.&lt;/p&gt;
+&lt;div style=&quot;display:flex;justify-content:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/aws-2024-sponsor.CIUgW3kj_6EnFG.webp&quot; style=&quot;max-width:550px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Thanks to AWS sponsorship renewal!&quot; width=&quot;1150&quot; height=&quot;804&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;In addition to AWS, we want to extend our gratitude to all our supporters—both individuals and organizations—who contribute through GitHub Sponsors and &lt;a href=&quot;https://opencollective.com/maplibre&quot;&gt;OpenCollective&lt;/a&gt;. We acknowledge the collective contributions of our community, and we are grateful for your continued backing.&lt;/p&gt;
+&lt;p&gt;With that note, here’s the round-up of updates from January 2025!&lt;/p&gt;
+&lt;h2 id=&quot;maplibre-native&quot;&gt;MapLibre Native&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.8.0&quot;&gt;MapLibre Android 11.8.0&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.10.0&quot;&gt;MapLibre iOS 6.10.0 &lt;/a&gt; were released which included the new PMTiles support for MapLibre Native.&lt;/li&gt;
+&lt;li&gt;MapLibre Native gained experimental Rust support (&lt;a href=&quot;https://maplibre.org/maplibre-native/docs/book/rust.html&quot;&gt;docs&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3137&quot;&gt;PR&lt;/a&gt;). This allows C++ code to use Rust modules including dependencies. The first demo replaces csscolorparser.hpp with a popular &lt;a href=&quot;https://crates.io/crates/csscolorparser&quot;&gt;Rust lib&lt;/a&gt; (2.2 million downloads). We need feedback on any potential issues with this approach. Thanks to &lt;a href=&quot;https://github.com/louwers&quot;&gt;@louwers&lt;/a&gt; and &lt;a href=&quot;https://github.com/nyurik&quot;&gt;@nyurik&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The MapLibre Native Development Team kicked off their work again this January. They are currently working on:
+&lt;ul&gt;
+&lt;li&gt;Extending Custom Drawable Layer support for cross-platform custom layers.&lt;/li&gt;
+&lt;li&gt;Using a dynamic texture atlas for reduced memory usage.&lt;/li&gt;
+&lt;li&gt;Adding support for &lt;a href=&quot;https://github.com/maplibre/maplibre-tile-spec&quot;&gt;MapLibre Tiles&lt;/a&gt; which we expect will bring better performance.&lt;/li&gt;
+&lt;li&gt;Ongoing performance and stability improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We want to bring Vulkan and Metal support to Qt. Qt is currently using an older &lt;code&gt;opengl2&lt;/code&gt; branch. If you are a &lt;a href=&quot;https://github.com/maplibre/maplibre-native-qt&quot;&gt;MapLibre Native Qt&lt;/a&gt; user and want to help, please see &lt;a href=&quot;https://github.com/maplibre/maplibre-native-qt/pull/59&quot;&gt;this draft PR&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/TatyanaPolunina&quot;&gt;@TatyanaPolunina&lt;/a&gt;, a C++ engineer from Lyft, will be addressing some stability issues Lyft is facing, well as extending the observability of MapLibre Native. We are happy to work with Tetiana and Lyft on MapLibre Native this year!&lt;/li&gt;
+&lt;li&gt;Work &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/3181&quot;&gt;has begun&lt;/a&gt; on MapLibre Native Rust wrapper - the ability to use native lib as a Rust crate. This will add another supported platform, in addition to Linux/Android/iOS/Node.js and others.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;swiftui-dsl&quot;&gt;SwiftUI DSL&lt;/h4&gt;
+&lt;p&gt;The &lt;a href=&quot;https://github.com/maplibre/swiftui-dsl/releases/tag/v0.5.1&quot;&gt;MapLibre SwiftUI DSL v0.5 release&lt;/a&gt; is out with two stand-out features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic support for fill style layers in the DSL. This lets you add things like area-of-interest shading dynamically using the DSL.&lt;/li&gt;
+&lt;li&gt;A revamped read-only proxy interface to the map view. This lets us safely expose access to functions on the underlying map view like &lt;code&gt;func convert(_ coordinate: CLLocationCoordinate2D, toPointTo: UIView?) -&amp;gt; CGPoint&lt;/code&gt; directly. Such functions won’t cause any interference with SwiftUI state, and we now have a way to expose them directly, unlocking even more use cases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both new features were implemented by &lt;a href=&quot;https://github.com/hactar&quot;&gt;@hactar&lt;/a&gt;. These are first passes and don’t expose everything theoretically possible by MapLibre. If you’d like access to some method on the &lt;code&gt;MLNMapView&lt;/code&gt; or need more properties from &lt;code&gt;MLNFillStyleLayer&lt;/code&gt;, &lt;a href=&quot;https://github.com/maplibre/swiftui-dsl&quot;&gt;let us know with an issue or open a PR on GitHub&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;We’ve also done some dependency upgrades, including upgrading MapLibre Native to 6.10. &lt;a href=&quot;https://github.com/Archdoog&quot;&gt;@Archdoog&lt;/a&gt; notes that if you’re using the Mockable package, the change may require some updates to your own code.&lt;/p&gt;
+&lt;h4 id=&quot;maplibre-native---react-native-sdk-v10&quot;&gt;MapLibre Native - React Native SDK v10&lt;/h4&gt;
+&lt;p&gt;The MapLibre Native - React Native SDK v10 has been &lt;a href=&quot;https://github.com/maplibre/maplibre-react-native/releases/tag/v10.0.0&quot;&gt;released&lt;/a&gt;!
+Highlights of this release include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;New Architecture:&lt;/strong&gt; The SDK has not been refactored to use New Architecture yet, so there isn’t any performance improvement, but v10 includes a new compat layer that allows MapLibre Native to be used in New Architecture mode.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Expo Support:&lt;/strong&gt; v10 includes improvements for use in Expo, such as the ability to add Google Location Services.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Flexible SDK Versioning:&lt;/strong&gt; This release allows users to configure which version of the iOS and Android SDKs from the MapLibre Native distributions are used. This works for minor and patch releases, enabling users of MapLibre React Native to adopt these new versions immediately after they are published, without waiting for a MapLibre React Native release.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;New Documentation:&lt;/strong&gt; &lt;a href=&quot;https://maplibre.org/maplibre-react-native/&quot;&gt;https://maplibre.org/maplibre-react-native/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This release has been a year in the making, with 29 alphas and 21 betas! Thanks to &lt;a href=&quot;https://github.com/tyrauber&quot;&gt;@tyrauber&lt;/a&gt; and &lt;a href=&quot;https://github.com/KiwiKilian&quot;&gt;@KiwiKilian&lt;/a&gt; for their contributions, helping to enhance its capabilities and improve documentation.&lt;/p&gt;
+&lt;h2 id=&quot;web&quot;&gt;Web&lt;/h2&gt;
+&lt;p&gt;The year started with a bang 🎉. With the &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.0.0&quot;&gt;release of the globe&lt;/a&gt; almost on New Year’s eve we were off to a great start of 2025. One breaking change related to &lt;code&gt;geometry-type&lt;/code&gt; in the style spec caused a lot of commotion and inspired an important discussion, resulting in a quick revert of that specific change with the release of 5.0.1.
+While this discussion was valuable we encourage the community to use our pre-releases for major versions and provide feedback before the official release.
+We also &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.1.0&quot;&gt;released version 5.1.0&lt;/a&gt; this month, and there are nice things cooking as can be read in this newsletter. Great year ahead, no doubt!&lt;/p&gt;
+&lt;h4 id=&quot;maplibre-web-fonts&quot;&gt;MapLibre Web Fonts&lt;/h4&gt;
+&lt;p&gt;A group of developers using MapLibre GL JS is interested in building native Web Fonts (&lt;code&gt;.woff2&lt;/code&gt;) support, as a replacement for needing to fetch and host &lt;code&gt;glyphs&lt;/code&gt;. This would have key advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fewer font files and less data to download when displaying labels.&lt;/li&gt;
+&lt;li&gt;Easier workflow for designing maps with custom typography.&lt;/li&gt;
+&lt;li&gt;Support for more languages in South and Southeast Asia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A demonstration is live &lt;a href=&quot;https://bdon.github.io/maplibre-text/webfonts/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find more information on &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/discussions/2555&quot;&gt;GitHub Discussions&lt;/a&gt; or in the &lt;code&gt;#maplibre-i18n&lt;/code&gt; slack channel.&lt;/p&gt;
+&lt;h2 id=&quot;maplibre-flutter&quot;&gt;MapLibre Flutter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The MapLibre Native Android SDK has been updated to 11.8.0 which adds support for PMTiles. It is planned to add support for PMTiles on web as well to provide feature parity across all platforms.&lt;/li&gt;
+&lt;li&gt;Static-typed map styles, including expressions have been evaluated. Modeling the MapLibre style spec with JSON schema to make the code generation more straight forward looks promising.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;martin-tile-server&quot;&gt;Martin Tile Server&lt;/h2&gt;
+&lt;p&gt;Despite announcing v0.15 Martin release last month, we hit a last second testing issue that delayed the release until mid January. Moreover, additional testing uncovered some suprising inconsistencies with the newer PostgreSQL versions itself (unrelated to Martin). That said, Martin v0.15 is out with &lt;a href=&quot;https://maplibre.org/news/2025-01-05-maplibre-newsletter-december-2024/#martin&quot;&gt;numerous new features&lt;/a&gt;, thanks to the amazing volunteer work of the team.&lt;/p&gt;
+&lt;h2 id=&quot;monthly-meetings&quot;&gt;Monthly meetings&lt;/h2&gt;
+&lt;p&gt;We will hold our monthly meetings on the second Wednesday of each month. However, for this month only, &lt;em&gt;&lt;strong&gt;all our meetings will be held on February 19&lt;/strong&gt;&lt;/em&gt; instead of the usual second Wednesday. There will be an additional session on the last Wednesday to better accommodate participants in Asia time zones.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: &lt;strong&gt;Feb 19, 2025 5:00–6:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre Native: &lt;strong&gt;Feb 19, 2025 6:00–7:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: &lt;strong&gt;Feb 19, 2025 - 7:00–8:00 PM UTC&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;last-wednesday-meeting-asia-friendly&quot;&gt;Last Wednesday Meeting (Asia Friendly)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Feb 26, 2025 - 9:00–10:00 AM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;View meeting times in your time zone: &lt;a href=&quot;https://notime.zone/OILeS6ABXai72&quot;&gt;https://notime.zone/OILeS6ABXai72&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All calls are open to everyone. Zoom links can be found in our MapLibre Slack. If you’re not a member, request an invite at &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;OpenStreetMap US Slack community&lt;/a&gt;. We look forward to seeing you!&lt;/p&gt;</content:encoded><author>Bart Louwers, Birk Skyum, Ian Wagner, Yuri Astrakhan, Harel Mazor, Brandon Liu, Joscha Eckert and Ramya Ragupathy</author></item><item><title>MapLibre Newsletter December 2024</title><link>https://maplibre.org/news/2025-01-05-maplibre-newsletter-december-2024/</link><guid isPermaLink="true">https://maplibre.org/news/2025-01-05-maplibre-newsletter-december-2024/</guid><pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Happy New Year, MapLibre Community! We are thrilled to share big updates for MapLibre Native (including Vulkan support), the official launch of MapLibre GL JS Version 5.0, new features in Martin Tile Server, and more.&lt;/p&gt;
+&lt;p&gt;In January we will hold a MapLibre Eastern Call again to better connect with contributors around the world.&lt;/p&gt;
+&lt;p&gt;Let’s dive in!&lt;/p&gt;
+&lt;h2 id=&quot;maplibre-native&quot;&gt;MapLibre Native&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Android &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.7.0&quot;&gt;11.7.0&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.7.1&quot;&gt;11.7.1&lt;/a&gt; were released. These versions mark the first-ever releases with Vulkan support. Check out the detailed announcement on &lt;a href=&quot;https://maplibre.org/news/2024-12-12-maplibre-android-vulkan/&quot;&gt;MapLibre Android Vulkan Support&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The latest version of MapLibre iOS &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.9.0&quot;&gt;6.9.0&lt;/a&gt; is here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;kotlin-multiplatform&quot;&gt;Kotlin Multiplatform&lt;/h3&gt;
+&lt;p&gt;Exciting news for developers interested in &lt;a href=&quot;https://kotlinlang.org/docs/multiplatform.html&quot;&gt;&lt;strong&gt;Kotlin Multiplatform&lt;/strong&gt;&lt;/a&gt;: &lt;a href=&quot;https://github.com/sargunv&quot;&gt;Sargun Vohra&lt;/a&gt;, with input from &lt;a href=&quot;https://github.com/westnordost&quot;&gt;Tobias Zwick&lt;/a&gt;, has released &lt;a href=&quot;https://github.com/maplibre/maplibre-compose#maplibre-for-compose&quot;&gt;MapLibre for Compose&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;The library integrates MapLibre iOS and MapLibre Android and is open to contributions. Experiments that add desktop support as well as support for the web (by intergrating with MapLibre GL JS) are underway.&lt;/p&gt;
+&lt;p&gt;Originally released late November, the library is now at v0.4.0. Get started here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 Repository: &lt;a href=&quot;https://github.com/maplibre/maplibre-compose&quot;&gt;GitHub Repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📖 Documentation: &lt;a href=&quot;https://maplibre.org/maplibre-compose/&quot;&gt;Explore Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here’s a sneak peek of MapLibre for Compose in action:&lt;/p&gt;
+&lt;div style=&quot;display:flex;justify-content:center;align-items:center;gap:20px&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/maplibre-compose-android.ZmFsHdtY_ZLRntU.webp&quot; style=&quot;max-width:200px;width:100%;height:auto;display:inline-block&quot; alt=&quot;MapLibre Compose - Android demo&quot; width=&quot;349&quot; height=&quot;800&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/maplibre-compose-ios.DFQuyvpJ_Z1yfczr.webp&quot; style=&quot;max-width:200px;width:100%;height:auto;display:inline-block&quot; alt=&quot;MapLibre Compose - iOS demo&quot; width=&quot;348&quot; height=&quot;800&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;maplibre-gl-js&quot;&gt;MapLibre GL JS&lt;/h2&gt;
+&lt;p&gt;We’re thrilled to announce the official release of &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.0.0&quot;&gt;MapLibre GL JS Version 5.0&lt;/a&gt;! 🌏&lt;/p&gt;
+&lt;p&gt;This major release, shaped by feedback and several pre-releases (including &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.0.0-pre.9&quot;&gt;5.0.0-pre.9&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.0.0-pre.10&quot;&gt;5.0.0-pre.10&lt;/a&gt; released in December 2024), introduces globe rendering mode, providing a more immersive experience.
+It doesn’t mean it’s perfect, nothing is, we will continue to improve it, fix bugs and add new features, but we feel it is ready to see the world and get a wider audience.&lt;/p&gt;
+&lt;p&gt;Try it out and share your thoughts!&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;martin&quot;&gt;Martin&lt;/h2&gt;
+&lt;p&gt;Martin Tile Server &lt;a href=&quot;https://github.com/maplibre/martin/issues/1632&quot;&gt;v0.15.0&lt;/a&gt; will have been released™:&lt;/p&gt;
+&lt;p&gt;While there are a &lt;a href=&quot;https://github.com/maplibre/martin/releases/tag/v0.15.0&quot;&gt;lot of improvements&lt;/a&gt;, here are the stand out features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;COG Support&lt;/strong&gt;: Basic &lt;a href=&quot;https://maplibre.org/martin/sources-cog-files.html&quot;&gt;&lt;code&gt;cog&lt;/code&gt; (Cloud Optimized GeoTIFF) support&lt;/a&gt; was added as a data source. This allows to effectively serve raster tiles similar to mbtiles raster mode and pmtiles raster mode. See &lt;a href=&quot;https://maplibre.org/martin/sources-cog-files.html&quot;&gt;our docs&lt;/a&gt; for further context.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Web UI framework&lt;/strong&gt;: We have laid the foundation for a web-UI, thoug it is still in early development. Get a glimpse of our vision for the UI by visiting this &lt;a href=&quot;https://github.com/maplibre/martin/issues/1120&quot;&gt;GitHub issue&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;SDF sprites&lt;/strong&gt;: &lt;code&gt;SDF&lt;/code&gt; sprites can now be generated via a separate API route. This allows to color sprites in &lt;code&gt;maplibre-gl&lt;/code&gt;/&lt;code&gt;maplibre-native&lt;/code&gt; based on map data and have crispier sprites.
+Limitations include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Single-color support only.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Background customization limited to blurred borders.&lt;/p&gt;
+&lt;p&gt;Learn more in &lt;a href=&quot;https://maplibre.org/martin/sources-sprites.html&quot;&gt;the Martin docs&lt;/a&gt;. Here’s an example sprite from &lt;a href=&quot;https://nav.tum.de&quot;&gt;NavigaTUM&lt;/a&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display:flex;justify-content:center&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/martin-sdf.CGYMtUjf_tPuGq.webp&quot; style=&quot;max-width:600px;width:100%;height:auto;display:inline-block&quot; alt=&quot;Martin Tile Server - sprites demo&quot; width=&quot;702&quot; height=&quot;525&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;flutter-maplibre&quot;&gt;Flutter MapLibre&lt;/h2&gt;
+&lt;p&gt;Started in September 2024, the Flutter maplibre package was created to provide modern Flutter bindings for MapLibre Native and MapLibre GL JS and a seamless integration into the Flutter ecosystem. Currently, supported platforms are Android and Web, while the iOS implementation is on the way and, as of right now, about halfway done (see &lt;a href=&quot;https://github.com/josxha/flutter-maplibre/issues/26&quot;&gt;#26&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Key features include its integration into the Flutter state management system and widget tree, direct interoperability using FFI and JNI, and platform-invariant customizable user interface. A more in depth comparison with &lt;code&gt;flutter-maplibre-gl&lt;/code&gt; and other similar packages can be found in the &lt;code&gt;maplibre&lt;/code&gt; docs: &lt;a href=&quot;https://flutter-maplibre.pages.dev/compare/&quot;&gt;flutter-maplibre.pages.dev/compare/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The package already receives a couple of hundred downloads each month, and its goal is to become a full alternative to flutter-maplibre-gl by the end of Q1 2025.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Repository: &lt;a href=&quot;https://github.com/josxha/flutter-maplibre&quot;&gt;github.com/josxha/flutter-maplibre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;pub.dev Package Registry: &lt;a href=&quot;https://pub.dev/packages/maplibre&quot;&gt;pub.dev/packages/maplibre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hosted Example App: &lt;a href=&quot;https://flutter-maplibre.pages.dev/demo/&quot;&gt;flutter-maplibre.pages.dev/demo&lt;/a&gt;
+&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;community-events&quot;&gt;Community Events&lt;/h2&gt;
+&lt;p&gt;MapLibre User Group Japan recently held its 8th X Space on December 26, 2024, attracting 44 listeners! 🎉 If you missed it, you can catch the &lt;a href=&quot;https://x.com/i/spaces/1vOGwroapBmKB&quot;&gt;recording on X&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information, visit the official website: &lt;a href=&quot;https://mug-jp.org&quot;&gt;https://mug-jp.org&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;monthly-meetings&quot;&gt;Monthly Meetings&lt;/h2&gt;
+&lt;p&gt;We’re continuing our tradition of meeting on the second Wednesday of each month, and now we’re adding an additional session on the last Wednesday to accommodate eastern-friendly time zones.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Second Wednesday Meetings (January 8, 2025)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: 5:00–6:00 PM UTC&lt;/li&gt;
+&lt;li&gt;MapLibre Native: 6:00–7:00 PM UTC&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: 7:00–8:00 PM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Last Wednesday Meeting (Eastern-Friendly)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Eastern Call: January 29, 2025 - 9:00–10:00 AM UTC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;View meeting times in your time zone: &lt;a href=&quot;https://notime.zone/OFrb-hOVMIx8E&quot;&gt;https://notime.zone/OFrb-hOVMIx8E&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All calls are open to everyone. Zoom links can be found in our MapLibre Slack. If you’re not a member, request an invite at &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;https://slack.openstreetmap.us/&lt;/a&gt;. We look forward to seeing you!&lt;/p&gt;</content:encoded><author>Bart Louwers, Harel Mazor, Sargun Vohra, Joscha Eckert, Frank Elsinga and Ramya Ragupathy</author></item><item><title>MapLibre Android with Vulkan Support Released</title><link>https://maplibre.org/news/2024-12-12-maplibre-android-vulkan/</link><guid isPermaLink="true">https://maplibre.org/news/2024-12-12-maplibre-android-vulkan/</guid><pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We are excited to announce the official release of MapLibre Android with Vulkan support!&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/vulkan_landscape.CChzW321_Z13uAGC.webp&quot; alt=&quot;Screenshot of MapLibre Android with Vulkan logo&quot; style=&quot;max-width:600px;width:100%;height:auto;&quot; width=&quot;3104&quot; height=&quot;1469&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;vulkan&quot;&gt;Vulkan&lt;/h2&gt;
+&lt;p&gt;Vulkan is a modern graphics API which brings advantages such as improved performance, improved observability and better stability. Vulkan is poised to replace OpenGL ES eventually on Android. Starting 2026, new devices will only support OpenGL ES through a&lt;a href=&quot;https://developer.android.com/games/develop/vulkan/overview&quot;&gt; translation layer&lt;/a&gt;. Just like the &lt;a href=&quot;https://maplibre.org/news/2024-01-19-metal-support-for-maplibre-native-ios-is-here/&quot;&gt;Metal backend&lt;/a&gt; prepared MapLibre Native for the future on iOS, the Vulkan backend prepares the project for the future on Android.&lt;/p&gt;
+&lt;h2 id=&quot;thank-you&quot;&gt;Thank You&lt;/h2&gt;
+&lt;p&gt;The project was brought to fruition by a team of graphics engineers colloquially known as the MapLibre Native Development Team: &lt;em&gt;Alex Cristici&lt;/em&gt;, &lt;em&gt;Adrian Cojocaru&lt;/em&gt;, &lt;em&gt;Tim Sylvester&lt;/em&gt;, &lt;em&gt;Marc Wilson&lt;/em&gt; and led by &lt;em&gt;Steve Gifford&lt;/em&gt;. Adrian was brought on the team as Vulkan expert early this year, and he did the main development push for Vulkan. The &lt;a href=&quot;https://github.com/maplibre/maplibre-native/blob/main/design-proposals/2022-10-27-rendering-modularization.md&quot;&gt;rendering modularization&lt;/a&gt; effort of last year laid the ground work for being able to implement other rendering backends. Many thanks to everyone involved.&lt;/p&gt;
+&lt;p&gt;Another big thanks goes to AWS for sponsoring this project.&lt;/p&gt;
+&lt;p&gt;Lastly, thanks to everyone that tried out the pre-releases and gave us feedback!&lt;/p&gt;
+&lt;h2 id=&quot;using-maplibre-android-with-vulkan&quot;&gt;Using MapLibre Android with Vulkan&lt;/h2&gt;
+&lt;p&gt;MapLibre Android with Vulkan support is available as &lt;a href=&quot;https://central.sonatype.com/artifact/org.maplibre.gl/android-sdk-vulkan/11.7.0&quot;&gt;&lt;code&gt;org.maplibre.gl:android-sdk-vulkan&lt;/code&gt;&lt;/a&gt; on Maven Central. For more details about this release, refer to the &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.7.0&quot;&gt;changelog&lt;/a&gt;.&lt;/p&gt;</content:encoded><author>Bart Louwers</author></item><item><title>MapLibre Newsletter November 2024</title><link>https://maplibre.org/news/2024-12-01-maplibre-newsletter-november-2024/</link><guid isPermaLink="true">https://maplibre.org/news/2024-12-01-maplibre-newsletter-november-2024/</guid><pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;November month has seen a lot of updates from across different projects in Maplibre ecosystem. From mulitple pre-releases for MapLibre GL JS and to groundbreaking udpates in Maplibre Native, there’s a lot to explore.&lt;/p&gt;
+&lt;p&gt;In addition, a recent survey shed light on user feedback for flutter Maplibre GL. Don’t forget to check upcoming map events and join us for the monthly meetings to stay connected with the community.&lt;/p&gt;
+&lt;p&gt;Let’s dive in!&lt;/p&gt;
+&lt;h2 id=&quot;maplibre-gl-js&quot;&gt;MapLibre GL JS&lt;/h2&gt;
+&lt;p&gt;We have released versions &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.0.0-pre.5&quot;&gt;5.0.0-pre.5&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.0.0-pre.6&quot;&gt;5.0.0-pre.6&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.0.0-pre.7&quot;&gt;5.0.0-pre.7&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/releases/tag/v5.0.0-pre.8&quot;&gt;5.0.0-pre.8&lt;/a&gt; this month!
+These pre-release versions introduced most of the breaking changes we have planned for version 5.&lt;/p&gt;
+&lt;p&gt;For other features we thought about introducing as a breaking change, we found a solution that does not require a breaking change and we’ll see if and when they will be introduced in the future.&lt;/p&gt;
+&lt;p&gt;We have solved all the showstopper bugs for this release and there’s only a few minor things we would like to include before creating a production ready version. To see the current status of version 5 you can follow the initial post in the following issue:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/issues/3834&quot;&gt;https://github.com/maplibre/maplibre-gl-js/issues/3834&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;maplibre-native&quot;&gt;MapLibre Native&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Android &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.6.0&quot;&gt;11.6.0&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.6.1&quot;&gt;11.6.1&lt;/a&gt; have been released.&lt;/li&gt;
+&lt;li&gt;MapLibre iOS &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.8.1&quot;&gt;6.8.1&lt;/a&gt; was released.&lt;/li&gt;
+&lt;li&gt;We created a new documentation site to host &lt;a href=&quot;https://maplibre.org/maplibre-native/android/examples/&quot;&gt;MapLibre Android Examples&lt;/a&gt;. This provides a more accessible resource compared to the &lt;a href=&quot;https://maplibre.org/maplibre-native/android/api/&quot;&gt;API Documentation&lt;/a&gt;. More examples are underway, contributions are, of course, welcomed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.flitsmeister.nl/&quot;&gt;Flitsmeister&lt;/a&gt; has released a sample project demonstrating how to use MapLibre Android with &lt;strong&gt;Android Auto&lt;/strong&gt;: &lt;a href=&quot;https://github.com/flitsmeister/MapLibre-Android-Auto-Sample&quot;&gt;GitHub Repo&lt;/a&gt;. We’re thrilled to see Flitsmeister share their hard-earned expertise with the community. It’s also exciting to see the FOSS magic at work, with suggestions for improvements already coming from other members of the community.&lt;/li&gt;
+&lt;li&gt;We’re experimenting with some new GitHub functionality: &lt;a href=&quot;https://github.com/maplibre/maplibre-native/discussions/3053&quot;&gt;issue templates and issue types&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Engineers working for &lt;a href=&quot;https://hudhud.sa/en&quot;&gt;HudHud&lt;/a&gt; have kicked off the development for &lt;strong&gt;3D Model Support&lt;/strong&gt; in MapLibre Native. To implement this properly we need to “revive the 3D pass” (which is currently unused), which brings about plenty of complexities. It will be a while until proper 3D support will land, but watch this space, and join the monthly meetings, if you are interested in this.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;vulkan&quot;&gt;Vulkan&lt;/h3&gt;
+&lt;p&gt;We’ve made a &lt;strong&gt;pre-release&lt;/strong&gt; of MapLibre Android with &lt;strong&gt;Vulkan support&lt;/strong&gt;: &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.6.1-vulkan-pre1&quot;&gt;11.6.1-vulkan-pre1&lt;/a&gt;. This will likely be the last pre-release, with the official Vulkan-supported release planned for release in early December.&lt;/p&gt;
+&lt;p&gt;While OpenGL ES will remain supported and MapLibre Android releases with OpenGL ES will continue for the foreseeable future, Vulkan offers a more modern and performant backend.&lt;/p&gt;
+&lt;h4 id=&quot;feedback-needed&quot;&gt;Feedback Needed!&lt;/h4&gt;
+&lt;p&gt;Help us test Vulkan support and ensure there are no regressions for your app by following these steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Use the dependency: &lt;code&gt;org.maplibre.gl:android-sdk:11.6.1-vulkan-pre1&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Test your styles:
+&lt;ul&gt;
+&lt;li&gt;Verify they render correctly across various zoom levels, pitches, and feature-dense areas.&lt;/li&gt;
+&lt;li&gt;Rotate the device and check for any issues.&lt;/li&gt;
+&lt;li&gt;Ensure there are no performance regressions.&lt;/li&gt;
+&lt;li&gt;Test runtime styling, especially if it’s user-driven.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Share your feedback! You can contribute to the &lt;a href=&quot;https://github.com/maplibre/maplibre-native/issues/2787&quot;&gt;pre-release thread&lt;/a&gt; or &lt;a href=&quot;https://github.com/maplibre/maplibre-native/issues/new?template=android-bug-report.yml&quot;&gt;create an issue&lt;/a&gt;. Positive feedback is welcome, too!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;flutter-maplibre-gl&quot;&gt;Flutter MapLibre GL&lt;/h2&gt;
+&lt;p&gt;The survey conducted last month found that users appreciate MapLibre on Flutter and rate the flutter-maplibre-gl package with &lt;strong&gt;4.1 out of 5 stars overall&lt;/strong&gt;. The package is praised for its performance, lower cost and integration with Flutter, among other things.
+Stability and platform differences were identified as issues, as 46% of users reported have been affected by platform-specific behavior and 44% of users experienced crashes.&lt;/p&gt;
+ 
+&lt;img src=&quot;https://maplibre.org/_astro/flutter-survey-results.CPzlGU2d_oMxw8.webp&quot; style=&quot;max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;&quot; alt=&quot;MapLibre Flutter Survey Results infographic summarizing the findings of a survey conducted on users of the MapLibre Flutter package. Key points include: 62% use it for commercial projects, 72% use it on iOS, and the package has an overall score of 4.1/5. Issues like platform-specific behavior (46%) and app crashes (44%) were reported, while features like navigation, better error logs, and 3D tiles are desired by users. Key features include performance, ease of use, and multi-platform support.&quot; width=&quot;2480&quot; height=&quot;3508&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;navigation-android&quot;&gt;Navigation Android&lt;/h2&gt;
+&lt;p&gt;Maplibre-Navigation-Android has been updated to use the latest Maplibre-Native release 11.6.1 and was released as version 4.0.0 with this version. You can find more information about this in the following PR:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-navigation-android/pull/110&quot;&gt;https://github.com/maplibre/maplibre-navigation-android/pull/110&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;conferences&quot;&gt;Conferences&lt;/h2&gt;
+&lt;p&gt;Check out these events to attend:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://2024.foss4g.org/en/&quot;&gt;FOSS4G 2024 in Belem, Brazil&lt;/a&gt; between 2nd to 8th December 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://foss4g.asia/2024/&quot;&gt;FOSS4G Asia 2024 in Bangkok, Thailand&lt;/a&gt; between 15th to 18th December 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fossgis-konferenz.de/2025/programm/&quot;&gt;FOSSGIS in Münster, Germany&lt;/a&gt; between 26th to 29th March 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;community-events&quot;&gt;Community Events&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;MapLibre Meetup Japan #03 @ Tokyo&lt;/em&gt;&lt;/strong&gt; was held on November 8th, hosted by the MapLibre User Group Japan (MUG-JP). This event marked the group’s first in-person gathering and saw an impressive turnout of nearly 40 users. The meetup provided a fantastic opportunity to share knowledge and raise awareness about MapLibre.&lt;/p&gt;
+&lt;p&gt;A huge thank you to everyone who participated and supported this event! We look forward to more such community engagements in the future. For more details about the event, check out the MapLibre &lt;a href=&quot;https://osmus.slack.com/archives/C01G3D28DAB/p1731329007263679&quot;&gt;Slack conversation&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;monthly-meetings&quot;&gt;Monthly Meetings&lt;/h2&gt;
+&lt;p&gt;The upcoming monthly meetings will be held as usual on the second Wednesday of the month. These calls are open to everyone, and we encourage you to join us and say hello!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: December 11th, 2024, 6:00–7:00 PM CET&lt;/li&gt;
+&lt;li&gt;MapLibre Native: December 11th, 2024, 7:00–8:00 PM CET&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: December 11th, 2024, 8:00–9:00 PM CET&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Zoom links for these meetings can be found in the MapLibre Slack channel. If you’re not already a member, you can easily join by getting an automated invite at &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;https://slack.openstreetmap.us/&lt;/a&gt;.&lt;/p&gt;</content:encoded><author>Bart Louwers, Harel Mazor, Joscha Eckert, Robin Boldt and Ramya Ragupathy</author></item><item><title>Team update and our ongoing commitment to the community</title><link>https://maplibre.org/news/2024-11-12-team-updates/</link><guid isPermaLink="true">https://maplibre.org/news/2024-11-12-team-updates/</guid><pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We’d like to share a recent update regarding our &lt;a href=&quot;https://maplibre.org/about/&quot;&gt;team&lt;/a&gt; at MapLibre. One of our team members, who led our Marketing and Fundraising, has transitioned out of their role. We’re grateful for their efforts in fostering connections within our community and with our sponsors. We wish them well in their future endeavors.&lt;/p&gt;
+&lt;p&gt;Our commitment to the MapLibre community and our open-source mission remains strong. We’re dedicated to ensuring that our sponsorship program, community engagement and core project developments continue seamlessly. In the coming weeks, our team will be actively working to support these areas while we work on a long-term plan for MapLibre’s outreach efforts and sponsorship program.&lt;/p&gt;
+&lt;p&gt;Your support, contributions and enthusiasm are what makes this community so impactful. Please reach out with any questions or feedback.&lt;/p&gt;</content:encoded><author>MapLibre Board</author></item><item><title>MapLibre Newsletter October 2024</title><link>https://maplibre.org/news/2024-10-30-maplibre-newsletter-october-2024/</link><guid isPermaLink="true">https://maplibre.org/news/2024-10-30-maplibre-newsletter-october-2024/</guid><pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;maplibre-newsletter---october-2024&quot;&gt;MapLibre Newsletter - October 2024&lt;/h1&gt;
+&lt;p&gt;We’re delighted to begin the October newsletter with a gracious and hearty Thank You to Meta for their unwavering support as a sponsor of MapLibre in 2024! We look forward to what is to come.&lt;/p&gt;
+&lt;a href=&quot;https://www.meta.com/&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/Meta.Bs-RZF9O_ZUpE2K.webp&quot; alt=&quot;Meta sponsorship&quot; style=&quot;width:100%; height: auto;&quot; width=&quot;949&quot; height=&quot;556&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;maplibre-gl-js&quot;&gt;MapLibre GL JS&lt;/h2&gt;
+&lt;p&gt;We have released versions 5.0.0-pre.2, 5.0.0-pre.3 and 5.0.0-pre.4 this month.
+One interesting feature that was recently added was the support for pitch larger than 90 degrees.&lt;/p&gt;
+&lt;p&gt;Here’s an interesting situation that should be possible now:&lt;/p&gt;
+&lt;a href=&quot;pitchlarger90degrees.png&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/pitchlarger90degrees.3y3eWmyz_Z2agqrB.webp&quot; alt=&quot;pitchlarger90degrees&quot; style=&quot;width:100%; height: auto;&quot; width=&quot;5104&quot; height=&quot;2390&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;An interesting read on how this works can be found &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/blob/49d7fc96ad883b4e1042fe305cd0c0a16ccd9732/developer-guides/center-point.md&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We have introduced some breaking changes in these versions as was planned for version 5, so make sure to take a look at the changelog for more details.
+There are still open issues with globe and other improvements we plan to add as part of this major release. Stay tuned!
+See the &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/issues/3834&quot;&gt;initial post&lt;/a&gt; in the following issue to see the current status.&lt;/p&gt;
+&lt;p&gt;Overall we are progressing well and ironing out the globe feature.&lt;/p&gt;
+&lt;h2 id=&quot;maplibre-native&quot;&gt;MapLibre Native&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of the Vulkan backend continued this month. We also ran another benchmark on AWS Device Farm, using even more device types this time. One conclusion you may draw from the &lt;a href=&quot;https://github.com/maplibre/maplibre-native/issues/2787#issuecomment-2432251912&quot;&gt;results&lt;/a&gt; is that Vulkan will offer a solid performance boost on modern devices. We’re still validating these results. Stay tuned for an Android official release following later this year!&lt;/li&gt;
+&lt;li&gt;Kaushal Kumar Singh rewrote the Android build config from Groovy to the more modern Kotlin in &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/2902&quot;&gt;#2902&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Support for &lt;a href=&quot;https://maplibre.org/maplibre-style-spec/layers/#text-variable-anchor-offset&quot;&gt;&lt;code&gt;text-variable-anchor-offset&lt;/code&gt;&lt;/a&gt; has been merged (&lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/2921&quot;&gt;#2921&lt;/a&gt;). This feature is one of the features that Microsoft championed to be added to MapLibre GL JS, and now ported to MapLibre Native. We’re happy with this contribution and are excited about Microsoft adopting MapLibre Native.&lt;/li&gt;
+&lt;li&gt;MapLibre iOS &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases?q=ios&amp;expanded=true&quot;&gt;6.7.1 and 6.8.0&lt;/a&gt; were released.&lt;/li&gt;
+&lt;li&gt;MapLibre Android &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases?q=android-v11&amp;expanded=true&quot;&gt;11.5.1&lt;/a&gt; was released.&lt;/li&gt;
+&lt;li&gt;We also made two releases for &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases?q=android-v10&amp;expanded=true&quot;&gt;MapLibre Android v10&lt;/a&gt; with some backports.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;flutter&quot;&gt;Flutter&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/josxha&quot;&gt;@josxha&lt;/a&gt; is conducting a brief survey to gather feedback on MapLibre Flutter. The survey takes only about 2 minutes to complete and will help to identify strengths and areas for improvement. If you’ve worked with MapLibre on Flutter, your input is highly appreciated.
+You can participate &lt;a href=&quot;https://forms.gle/UTB6KjVFtmYv2RzU8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;conferences&quot;&gt;Conferences&lt;/h2&gt;
+&lt;p&gt;Check out these events to attend:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://2024.foss4g.org/en/&quot;&gt;FOSS4G 2024 in Belem, Brazil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fossgis-konferenz.de/2025/programm/&quot;&gt;FOSSGIS 2025 in Münster, Germany&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://stateofthemap.asia/&quot;&gt;State of the Map Asia 2024, Bangladesh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;meetings-and-events&quot;&gt;Meetings and Events&lt;/h2&gt;
+&lt;p&gt;The upcoming monthly meetings will be held as usual on the second Wednesday of the month. These calls are open to everyone, and we encourage you to join us and say hello!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: November 13th, 2024, 6:00–7:00 PM CET&lt;/li&gt;
+&lt;li&gt;MapLibre Native: November 13th, 2024, 7:00–8:00 PM CET&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: November 13th, 2024, 8:00–9:00 PM CET&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Zoom links for these meetings can be found in the MapLibre Slack channel. If you’re not already a member, you can easily join by getting an automated invite at &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;https://slack.openstreetmap.us/&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;developer-connection-with-maplibre-board&quot;&gt;Developer Connection with MapLibre Board&lt;/h2&gt;
+&lt;p&gt;We are excited to introduce an option to connect one-to-one with a member of the MapLibre Board. Our board boasts various backgrounds, experiences and executive level leadership. We invite you to connect to share your ideas for building the MapLibre project.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://forms.gle/tSEPUKi98i8fTCP59&quot;&gt;Sign-Up for a 1-1 Developer Connection with MapLibre Board&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded><author>Bart Louwers and Harel Mazor</author></item><item><title>Oliver Wipfli leaving the MapLibre Team</title><link>https://maplibre.org/news/2024-10-11-farewell-oliver/</link><guid isPermaLink="true">https://maplibre.org/news/2024-10-11-farewell-oliver/</guid><pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://maplibre.org/news/2022-10-07-oliver-coordinator/&quot;&gt;Two years ago&lt;/a&gt;, MapLibre announced that Oliver would become the first person to work on the MapLibre team in the capacity of coordinator. Oliver has been involved with the project before that, being the reviewer of the now legendary &lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/pull/209&quot;&gt;TypeScript migration PR&lt;/a&gt; for MapLibre GL JS, one of the first major milestones after the fork.&lt;/p&gt;
+&lt;p&gt;Oliver holds a PhD in Physics, but developed a fascination for maps, with a particular interest in &lt;a href=&quot;https://oliverwipfli.ch/about-text-rendering-in-maplibre-2023-10-17/&quot;&gt;text&lt;/a&gt; &lt;a href=&quot;https://oliverwipfli.ch/devanagari-in-the-protomaps-basemap-with-a-positioned-glyph-font-for-maplibre-2024-06-30/&quot;&gt;rendering&lt;/a&gt;. As a hot-air balloon pilot he created &lt;a href=&quot;https://ballometer.io/&quot;&gt;Ballometer&lt;/a&gt; for tracking hot-air balloons.&lt;/p&gt;
+&lt;p&gt;Oliver’s work has been instrumental in professionalizing the project and giving shape to its current workings. He helped create many processes, organized board and TSC meetings, helped write the &lt;a href=&quot;https://github.com/maplibre/maplibre/blob/main/CHARTER.md&quot;&gt;charter&lt;/a&gt; and held the yearly elections. Also not unimportant for the longevity of the project: Oliver was very productive garnering trust from &lt;a href=&quot;https://maplibre.org/sponsors/&quot;&gt;sponsors&lt;/a&gt;. MapLibre has now collected over a million USD in funding.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;about/ramya/&quot;&gt;Ramya Ragupathy&lt;/a&gt; will take over the responsibilities of Oliver, as announced &lt;a href=&quot;https://maplibre.org/news/2024-10-04-new-team-members/&quot;&gt;last week&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On behalf of the community, we would like to extend a heartfelt thanks to Oliver for all his efforts and the lasting positive impact he had on MapLibre. We wish him all the best with his future ventures. He is available to be hired as a &lt;a href=&quot;https://www.linkedin.com/in/oliver-wipfli-562258210/&quot;&gt;contractor&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;share-your-farewell-messages&quot;&gt;Share your farewell messages!&lt;/h3&gt;
+&lt;p&gt;Many of you from the community would have had a chance to work with Oliver and have your own stories to share. Please &lt;a href=&quot;https://github.com/maplibre/maplibre/discussions/414&quot;&gt;leave a personal message for Oliver on GitHub&lt;/a&gt;!&lt;/p&gt;
+&lt;a href=&quot;about/harel&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/3269297?v=4&quot; class=&quot;rounded-circle mt-3 border  border-white&quot; width=&quot;45&quot; alt=&quot;Avatar Harel&quot;&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;blockquote&gt;&lt;p&gt;My Dear Friend Oliver,&lt;/p&gt;&lt;br&gt;&lt;p&gt;I’m very sad to see you leave the coordinator role for MapLibre. I’m certain
+our path will cross again in the future, whether it will be a FOSS4G
+conference, a presentation somewhere or maybe a hiking route through some
+mountain.&lt;/p&gt;&lt;br&gt;&lt;p&gt;As you look back on from the creation of MapLibre to nowadays your
+fingerprints are evident everywhere, from getting sponsors to invest, getting
+PR pushed, hosting the monthly meetings and making sure everyone is welcomed
+in the community.&lt;/p&gt;&lt;br&gt;&lt;p&gt;I have no doubt you will succeed in everything you decide to do, as your
+passion is contagious.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Besides our joint battle to convert maplibre-gl-js to typescript, I think the
+best memory I have of you would be getting the MapLibre magnet with a personal
+engraving written on a small piece of paper, which took me a few days to
+decode. This is ironic for someone who likes scripts from different languages
+so much. Your personal touch is what makes this memory sweet and really
+encapsulates your essence for me.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Good luck, good man!&lt;/p&gt;&lt;br&gt;&lt;p&gt;May you always find your north star.&lt;/p&gt;&lt;br&gt;&lt;/blockquote&gt;
+&lt;a href=&quot;&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/2301378?v=4&quot; width=&quot;45&quot; class=&quot;rounded-circle mt-3 border  border-white&quot; alt=&quot;Avatar Isaac&quot;&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;blockquote&gt;&lt;p&gt;Oliver,&lt;br&gt;&lt;/p&gt;&lt;p&gt;To me, you are synonymous with MapLibre. Reflecting on every MapLibre meeting I’ve attended, I realized I associated each one of them with your presence. Curious, I revisited the meeting notes and, indeed, you were at every single one except for one. It’s not just your exceptional coordination skills that will stay with me, though. Your eagerness to explore new ideas, delve into technical details, and propose innovative solutions has been truly inspiring. Despite your role requiring a focus on coordination, you never hesitated to dive into the work hands-on, embracing the challenges and workload with enthusiasm.&lt;br&gt;
+It’s bittersweet to see you leave just as I’m getting started at MapLibre, but I understand that life sometimes necessitates a change in direction. I’m confident that wherever life takes you, you’ll soar to new heights—perhaps quite literally, with the help of hot-air balloons.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wishing you all the best on your new journey.&lt;br&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded><author>Bart Louwers and Ramya Ragupathy</author></item><item><title>New People Joining the Maplibre Team</title><link>https://maplibre.org/news/2024-10-04-new-team-members/</link><guid isPermaLink="true">https://maplibre.org/news/2024-10-04-new-team-members/</guid><pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;New people have joined the MapLibre Team. Please give them a warm welcome!&lt;/p&gt;
+&lt;p&gt;Isaac Besora has joined MapLibre as Graphics Engineer. His initial focus will be improvements in MapLibre GL JS in particular in the areas of Terrain 3D and the new Globe feature. Isaac brings expertise in graphics programming into the MapLibre Organization which is a central skill to what we are doing.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;about/ramya/&quot;&gt;Ramya Ragupathy&lt;/a&gt; will be Head of Product &amp;amp; Operations. She will coordinate work with maintainers, the community, and contributors, while also managing internal processes such as meeting coordination, financial oversight, and hiring. She will focus on aligning roadmaps and gathering feedback from the community to ensure successful collaboration and outcomes.&lt;/p&gt;
+&lt;p&gt;It is great to have you all on our team. We wish you in the name of the MapLibre Governing Board a good start and are looking forward to your contributions!&lt;/p&gt;</content:encoded><author>Birk Skyum</author></item><item><title>MapLibre Newsletter September 2024</title><link>https://maplibre.org/news/2024-09-30-maplibre-newsletter-september-2024/</link><guid isPermaLink="true">https://maplibre.org/news/2024-09-30-maplibre-newsletter-september-2024/</guid><pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;maplibre-newsletter---september-2024&quot;&gt;MapLibre Newsletter - September 2024&lt;/h1&gt;
+&lt;p&gt;We’re delighted to begin the September newsletter with a heartfelt THANK YOU to Microsoft for their unwavering support as a sponsor of MapLibre in 2024!&lt;/p&gt;
+&lt;a href=&quot;https://www.microsoft.com/&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/msft-sponsor-sep-newsletter.DUjLPOfI_1rL59o.svg&quot; alt=&quot;msft sponsorship&quot; style=&quot;width:100%; height: auto;&quot; width=&quot;267&quot; height=&quot;161&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;maplibre-gl-js&quot;&gt;MapLibre GL JS&lt;/h2&gt;
+&lt;p&gt;In this month three versions were released: 4.7.0, 4.7.1 and 5.0.0-pre.1.&lt;/p&gt;
+&lt;p&gt;The pre-release of version 5 is meant to get some feedback on the newly added globe feature!&lt;/p&gt;
+&lt;a href=&quot;globe.html&quot;&gt;&lt;img src=&quot;https://maplibre.org/_astro/globe.C6CTVt-g_ZC2NPN.webp&quot; alt=&quot;globe&quot; style=&quot;width:100%; height: auto;&quot; width=&quot;1440&quot; height=&quot;1044&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Feel free to try the globe with v5.0.0-pre.x&lt;/p&gt;
+&lt;p&gt;We are also planning some breaking changes as part of this version which you can find below, most of them are not disruptive:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/issues/3834&quot;&gt;https://github.com/maplibre/maplibre-gl-js/issues/3834&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Apart from the exciting news about the globe finally making its way to the main branch there are also some experiments to allow controlling the roll angle of the map to facilitate for some aviation use cases.&lt;/p&gt;
+&lt;img src=&quot;https://maplibre.org/_astro/gl-js-roll-angle.yT9wS9Pf_Z1r19og.webp&quot; alt=&quot;rollAngle&quot; style=&quot;width:100%; height: auto;&quot; width=&quot;1466&quot; height=&quot;803&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+&lt;p&gt;More about it can be found in the linked issue below, there are bounties related to this effort as well if you are interested in developing this, or if your company needs this feature you can chip-in for the costs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/maplibre/maplibre-gl-js/issues/4717#issuecomment-2368502154&quot;&gt;https://github.com/maplibre/maplibre-gl-js/issues/4717#issuecomment-2368502154&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;maplibre-native&quot;&gt;MapLibre Native&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The most significant development this month was the &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.3.0-vulkan-pre0&quot;&gt;MapLibre Native Android pre-release&lt;/a&gt; that uses &lt;a href=&quot;https://www.vulkan.org/&quot;&gt;Vulkan&lt;/a&gt; for rendering. We did some benchmarks and the results &lt;a href=&quot;https://github.com/maplibre/maplibre-native/issues/2787#issuecomment-2368938676&quot;&gt;look promising&lt;/a&gt;. Especially newer devices seem to benefit from this modern graphics API, although we are still validating these results and exploring opportunities to take advantage of Vulkan’s capabilities. Since the Vulkan backend is still in development, now is the best time to try it out and to let us know any regressions you encounter (either as an issue or in the &lt;a href=&quot;https://github.com/maplibre/maplibre-native/issues/2787&quot;&gt;pre-release thread&lt;/a&gt;). You can test it by using &lt;code&gt;11.3.0-vulkan-pre0&lt;/code&gt; as a version (or the latest Vulkan version from &lt;a href=&quot;https://central.sonatype.com/artifact/org.maplibre.gl/android-sdk/versions&quot;&gt;Maven Central&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support for &lt;a href=&quot;https://maplibre.org/maplibre-style-spec/sprite/#text-fit-properties&quot;&gt;&lt;code&gt;textFitWidth&lt;/code&gt; and &lt;code&gt;textFitHeight&lt;/code&gt;&lt;/a&gt; properties landed in &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/2780&quot;&gt;#2780&lt;/a&gt; this month. Support for specifying &lt;a href=&quot;https://maplibre.org/maplibre-style-spec/types/#padding&quot;&gt;padding for icons&lt;/a&gt; on all sides separately landed in &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/2845&quot;&gt;#2845&lt;/a&gt;. Both features are used in Bing Maps, and were implemented by Microsoft engineers (among which Alexey Kon). We are thankful for these contributions that work towards &lt;a href=&quot;https://github.com/maplibre/maplibre-native/issues?q=is%3Aissue+is%3Aopen+label%3Ajs-parity&quot;&gt;feature parity with MapLibre GL JS&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MapLibre Native Android &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.3.0&quot;&gt;11.3.0&lt;/a&gt;, &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.4.0&quot;&gt;11.4.0&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/android-v11.5.0&quot;&gt;11.5.0&lt;/a&gt; were released. This last release inadvertently included a small API change, which will mostly be resolved again by &lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/2880#pullrequestreview-2336900203&quot;&gt;#2880&lt;/a&gt;. A pesky bug in the emulator was plaguing MapLibre Native Android ever since 11.0.0, but we added a workaround in the latest release, so that working with the emulator should be viable again.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MapLibre Native iOS &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.6.0&quot;&gt;6.6.0&lt;/a&gt; and &lt;a href=&quot;https://github.com/maplibre/maplibre-native/releases/tag/ios-v6.7.0&quot;&gt;6.7.0&lt;/a&gt; were released.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MapLibre Node.js 6.0.0 was released which brings support for Metal on macOS, and uses the new &lt;a href=&quot;https://github.com/maplibre/maplibre-native/blob/main/design-proposals/2022-10-27-rendering-modularization.md&quot;&gt;drawable&lt;/a&gt; renderer architecture.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support for &lt;a href=&quot;https://github.com/protomaps/PMTiles&quot;&gt;PMTiles&lt;/a&gt; may come to MapLibre Native soon! There is an open PR (&lt;a href=&quot;https://github.com/maplibre/maplibre-native/pull/2882&quot;&gt;#2882&lt;/a&gt;) from Tiago Costa with a request to try it out.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;swiftui-dsl&quot;&gt;SwiftUI DSL&lt;/h2&gt;
+&lt;p&gt;MapLibre has a new hosted project: the &lt;a href=&quot;https://github.com/maplibre/swiftui-dsl&quot;&gt;SwiftUI DSL for MapLibre native&lt;/a&gt;! Originally started by Ian Wagner from &lt;a href=&quot;https://stadiamaps.com/&quot;&gt;Stadia Maps&lt;/a&gt;, the goal of the project is to give MapLibre developers on iOS an experience that rivals the latest MapKit for SwiftUI APIs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/archdoog&quot;&gt;Jacob Fielding&lt;/a&gt; (&lt;a href=&quot;https://rallista.app/&quot;&gt;Rallista&lt;/a&gt;), &lt;a href=&quot;https://subzero.eu/&quot;&gt;Patrick Wolowicz&lt;/a&gt; and &lt;a href=&quot;https://github.com/Patrick-Kladek&quot;&gt;Patrick Kladek&lt;/a&gt; (&lt;a href=&quot;https://hudhud.sa/en&quot;&gt;HudHud&lt;/a&gt;) shared the same vision, and have each contributed significantly to the ongoing development over the last year. This is a great example of the collaboration that MapLibre seeks to enable across the industry, and the authors are excited to have the project officially hosted under the MapLibre organization.&lt;/p&gt;
+&lt;p&gt;If you’d like to help shape the future of MapLibre in SwiftUI, join us in the &lt;code&gt;#maplibre-swiftui-compose-playground&lt;/code&gt; channel on &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;meetings-and-events&quot;&gt;Meetings and Events&lt;/h2&gt;
+&lt;p&gt;The upcoming monthly meetings will be held as usual on the second Wednesday of the month, which falls on October 9th, 2024. These calls are open to everyone, and we encourage you to join us and say hello!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MapLibre Navigation: October 9th, 2024, 6:00–7:00 PM CEST&lt;/li&gt;
+&lt;li&gt;MapLibre Native: October 9th, 2024, 7:00–8:00 PM CEST&lt;/li&gt;
+&lt;li&gt;MapLibre GL JS: October 9th, 2024, 8:00–9:00 PM CEST&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Zoom links for these meetings can be found in the MapLibre Slack channel. If you’re not already a member, you can easily join by getting an automated invite at &lt;a href=&quot;https://slack.openstreetmap.us/&quot;&gt;https://slack.openstreetmap.us/&lt;/a&gt;.&lt;/p&gt;</content:encoded><author>Ramya Ragupathy, Ian Wagner, Harel Mazor and Bart Louwers</author></item></channel></rss>
